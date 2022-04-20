@@ -447,6 +447,7 @@
       },
       "16504813776bf76406": {
         "type": "quotes",
+        "disabled": true,
         "blocks": {
           "16504813776bf76406-0": {
             "type": "quote",
