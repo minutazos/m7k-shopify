@@ -1,1 +1,902 @@
-{"current":{"type_header_font":"montserrat_n7","type_base_font":"lato_n4","share_pinterest":false,"social_twitter_link":"https:\/\/twitter.com\/m7kustom?s=11","social_instagram_link":"https:\/\/www.instagram.com\/m7kustom\/","social_youtube_link":"https:\/\/www.youtube.com\/channel\/UCXHCvDNsIn82kOip6f_gIJQ","sections":{"header":{"type":"header","settings":{"align_logo":"left","logo_max_width":185,"main_linklist":"main-menu","message":false,"home_page_only":true,"message_text":"¡Ven a inaugurar el local!","message_link":"shopify:\/\/pages\/m7kalendar","color_bg":"#3a3a3a","color_text":"#ffffff"}},"feature-row":{"type":"feature-row","disabled":true,"settings":{"layout":"left","title":"Imagen con texto","text":"<p>Vincula un texto largo con una imagen para dar visibilidad a tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad, estilo, o incluso ofrece una reseña.<\/p>","button_label":"","button_link":""}},"feature-columns":{"type":"feature-columns","disabled":true,"blocks":{"feature-columns-0":{"type":"text_block","settings":{"enable_image":true,"title":"Agregar un título o eslogan","text":"<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>","button_label":"","button_link":""}},"feature-columns-1":{"type":"text_block","settings":{"enable_image":true,"title":"Agregar un título o eslogan","text":"<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>","button_label":"","button_link":""}},"feature-columns-2":{"type":"text_block","settings":{"enable_image":true,"title":"Agregar un título o eslogan","text":"<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>","button_label":"","button_link":""}}},"block_order":["feature-columns-0","feature-columns-1","feature-columns-2"],"settings":{"title":"","align_text":"left"}},"collection":{"type":"collection","settings":{"title":"Nuestro trabajo","collection":"sneakers-by-m7k","grid":2,"rows":2,"show_vendor":true,"show_view_all":true}},"quotes":{"type":"quotes","disabled":true,"blocks":{"quotes-0":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}},"quotes-1":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}},"quotes-2":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}}},"block_order":["quotes-0","quotes-1","quotes-2"],"settings":{"title":""}},"image-bar":{"type":"image-bar","disabled":true,"blocks":{"image-bar-0":{"type":"image","settings":{"alignment":"center","link":"","cta_label":""}},"image-bar-1":{"type":"image","settings":{"alignment":"center","link":"","cta_label":""}},"image-bar-2":{"type":"image","settings":{"alignment":"center","link":"","cta_label":""}}},"block_order":["image-bar-0","image-bar-1","image-bar-2"],"settings":{"section_height":"medium"}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{"title":"Enlaces rápidos","menu":"footer"}},"footer-1":{"type":"newsletter","settings":{"title":"Boletín"}},"44a0029f-df67-42d1-914d-c0d8e50d8df3":{"type":"link_list","settings":{"title":"REDES SOCIALES","menu":"redes-sociales"}}},"block_order":["footer-0","footer-1","44a0029f-df67-42d1-914d-c0d8e50d8df3"],"settings":{"show_payment_icons":true,"color_footer_bg":"#f6f6f6","color_footer_text":"#333232","show_locale_selector":true,"show_currency_selector":true}},"list-collections-template":{"type":"list-collections-template","blocks":{"6b67b9c0-3bae-4d5a-bbe4-0c2d964b5f51":{"type":"collection","settings":{"collection":"sneakers-by-m7k"}},"e3b1ea81-ddfe-476a-9b8b-2aae8743a272":{"type":"collection","settings":{"collection":"camisetas-basik-by-m7k"}},"e1687868-0f7a-4ddf-b7c9-6feefb0c032d":{"type":"collection","settings":{"collection":"accesorios-by-m7k"}},"001d9020-08f0-4590-bcd2-9718027681db":{"type":"collection","settings":{"collection":"dellafuente-x-nike-by-m7k"}}},"block_order":["6b67b9c0-3bae-4d5a-bbe4-0c2d964b5f51","e3b1ea81-ddfe-476a-9b8b-2aae8743a272","e1687868-0f7a-4ddf-b7c9-6feefb0c032d","001d9020-08f0-4590-bcd2-9718027681db"],"settings":{"display_type":"all","sort":"date_reversed","grid":2}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":4,"rows":2,"show_collection_image":true,"show_vendor":false,"sort_enable":true,"tags_enable":true}},"product-template":{"type":"product-template","settings":{"show_quantity_selector":false,"show_vendor":false,"enable_payment_button":true,"show_share_buttons":true,"media_size":"large","enable_image_zoom":true,"enable_video_looping":true}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"heading":"También te puede interesar","show_vendor":false}},"1606215216577814cf":{"type":"feature-row","settings":{"image":"shopify:\/\/shop_images\/cuentanos_cuadrado.jpg","layout":"right","title":"¿Te imaginas unas zapatillas que solo tú puedas tener?","text":"<p>Deja volar tu imaginación y cuentanos esa idea que te gustaria plasmar en una de nuestras zapatillas y nosostros nos ocuparemos de trasladar esa idea al diseño.<\/p><p>Contáctanos y cuéntanos que historia te gustaría contar con tus  <em>Sneakers<\/em> personalizadas.<\/p><p><\/p>","button_label":"Cuéntanos ;)","button_link":"shopify:\/\/pages\/cuentanos-tu-idea"}},"16062164102ce7b4c0":{"type":"video","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2020-10-19_at_19.46.58.png","image_position":"center center","video_link":"https:\/\/www.youtube.com\/watch?v=3pQKrwwLtSI&t=5s","show_overlay":true,"style":"image_with_play","height":"medium","video_title":"CONÓCENOS EN NUESTRA PRIMERA ENTREVISTA","text_size":"medium"}},"1606216423cf0fd0c0":{"type":"featured-product","settings":{"featured_product":"af-1-x-by-skyers-x-m7k","show_quantity_selector":false,"show_vendor":true,"enable_payment_button":true,"show_share_buttons":true,"media_size":"medium","enable_image_zoom":true,"enable_video_looping":false}},"162705625279f3ce6a":{"type":"slideshow","blocks":{"005f4001-262a-47e0-8336-5fcbc7147cee":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/RENDER_FINAL.png","alignment":"center center","slide_title":"¡VEN A INAUGURAR EL LOCAL!","subheading":"C\/ Torrent de les flors 74, Barcelona","button_label":"saber más","button_link":"shopify:\/\/pages\/inaguracion"}},"162705625279f3ce6a-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/P1090446.jpg","alignment":"center center","slide_title":"Bienvenid@ a la #familiaM7K","subheading":"\"MÁS QUE UNA MARCA LA #FAMILIAM7K\"","button_label":"@M7K-SNEAKER.CUSTOM","button_link":"https:\/\/www.instagram.com\/m7kustom\/"}},"162705625279f3ce6a-1":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Copia_de_20_2.png","alignment":"center center","slide_title":"\"BLACK FRIDAY\"","subheading":"\"20% DE DESCUENTO EN TODA LA WEB\"","button_label":"\"BLACK20FORYOU\" - COMPRA YA!","button_link":"shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"}},"c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/P1070840.jpg","alignment":"center center","slide_title":"\"Hacemos todas nuestras obras a mano y con corazón\"","subheading":"#HANDMADE #MADEWITHLOVE","button_label":"NUESTRO TRABAJO","button_link":"shopify:\/\/collections\/all"}},"d8ed1c1d-6a7d-4008-807b-6e41e8a459e8":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/P1100858.jpg","alignment":"center bottom","slide_title":"","subheading":"\"SPREAD YOUR WING\"","button_label":"HAZTE CON ELLA!","button_link":"shopify:\/\/collections\/spread-your-wings-skyersco-x-m7k"}},"d75d0052-b18e-4c1c-8c0e-88d079d56edd":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Copia_de_M7KALENDAR_1.png","alignment":"center center","slide_title":"","subheading":"NO TE PIERDAS NINGÚN LANZAMIENTO","button_label":"M7KALENDAR","button_link":"shopify:\/\/pages\/m7kalendar"}}},"block_order":["005f4001-262a-47e0-8336-5fcbc7147cee","162705625279f3ce6a-0","162705625279f3ce6a-1","c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6","d8ed1c1d-6a7d-4008-807b-6e41e8a459e8","d75d0052-b18e-4c1c-8c0e-88d079d56edd"],"settings":{"slideshow_height":"adapt","text_size":"large","text_alignment":"center center","show_overlay":true,"autorotate":false,"autorotate_speed":5}},"16270562931af9adff":{"type":"video","settings":{"image":"shopify:\/\/shop_images\/P1080392.jpg","image_position":"center center","video_link":"https:\/\/www.youtube.com\/watch?v=S9w8Whc41ok","show_overlay":true,"style":"image_with_play","height":"medium","video_title":"PROCESO AF-1 PIXEL x CAROLINA HERRERA","text_size":"medium"}},"1629661186a4896892":{"type":"newsletter","settings":{"section_title":"Suscríbete a nuestra Newsletter","subheading":"<p>Enterate antes que nadie de las nuevas ofertas y lanzamientos!<\/p>","show_background":true}},"163519134556be83d4":{"type":"collection","disabled":true,"settings":{"title":"Colección destacada","collection":"spread-your-wings-skyersco-x-m7k","grid":2,"rows":1,"show_vendor":false,"show_view_all":false}},"1637844879c45b1d19":{"type":"feature-row","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Copia_de_20_2.png","layout":"left","title":"REBAJAS 20%  EN TODA LA WEB","text":"<p>Como much@s nos habéis pedido unas ofertitas este año, os hemos preparado un descuento especial para este día. Queremos celebrar los 2 años de nuestra marca con un <strong>20% de descuento en toda la Web<\/strong>!<\/p>","button_label":"¿Cómo tener la oferta?","button_link":"shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"}},"16378471705da657b6":{"type":"featured-blog","settings":{"title":"Entradas del blog","blog":"noticias","post_limit":3,"blog_show_author":false,"blog_show_date":false,"show_view_all":false}},"16504813776bf76406":{"type":"quotes","blocks":{"16504813776bf76406-0":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}},"16504813776bf76406-1":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}},"16504813776bf76406-2":{"type":"quote","settings":{"quote":"<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>","author":"Nombre del autor"}}},"block_order":["16504813776bf76406-0","16504813776bf76406-1","16504813776bf76406-2"],"settings":{"title":"Testimonios"}}},"content_for_index":["162705625279f3ce6a","1606215216577814cf","1637844879c45b1d19","163519134556be83d4","1606216423cf0fd0c0","collection","16504813776bf76406","1629661186a4896892","16378471705da657b6","16062164102ce7b4c0","16270562931af9adff"]},"presets":{"Default":{"sections":{"header":{"type":"header","settings":{}},"hero-1":{"type":"hero","settings":{"hero_size":"large","text_size":"large"}},"feature-row":{"type":"feature-row","settings":{}},"feature-columns":{"type":"feature-columns","blocks":{"feature-columns-0":{"type":"text_block","settings":{}},"feature-columns-1":{"type":"text_block","settings":{}},"feature-columns-2":{"type":"text_block","settings":{}}},"block_order":["feature-columns-0","feature-columns-1","feature-columns-2"],"settings":{"title":""}},"collection":{"type":"collection","settings":{"grid":4}},"hero-2":{"type":"hero","settings":{"text_size":"large"}},"quotes":{"type":"quotes","blocks":{"quotes-0":{"type":"quote","settings":{}},"quotes-1":{"type":"quote","settings":{}},"quotes-2":{"type":"quote","settings":{}}},"block_order":["quotes-0","quotes-1","quotes-2"],"settings":{"title":""}},"image-bar":{"type":"image-bar","blocks":{"image-bar-0":{"type":"image","settings":{}},"image-bar-1":{"type":"image","settings":{}},"image-bar-2":{"type":"image","settings":{}}},"block_order":["image-bar-0","image-bar-1","image-bar-2"],"settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{}},"footer-1":{"type":"newsletter","settings":{}}},"block_order":["footer-0","footer-1"],"settings":{"show_payment_icons":true}}},"content_for_index":["hero-1","feature-row","feature-columns","collection","hero-2","quotes","image-bar"]},"Light":{"color_text":"#162950","color_body_text":"#6d6d6d","color_sale_text":"#DA2F0C","color_borders":"#e4e4e4","color_button":"#DA2F0C","color_button_text":"#ffffff","color_small_button_text_border":"#162950","color_text_field":"#ffffff","color_text_field_text":"#162950","color_text_field_border":"#909090","color_image_overlay_text":"#ffffff","color_image_overlay":"#3d3d3d","image_overlay_opacity":40,"color_body_bg":"#f8f8f8","type_header_font":"muli_n6","type_header_base_size":26,"type_base_font":"muli_n4","type_base_size":18,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#e8f3f6","checkout_heading_font":"Roboto","checkout_body_font":"Source Sans Pro","checkout_accent_color":"#1990c6","checkout_button_color":"#23314e","checkout_error_color":"#ff6d6d","sections":{"header":{"type":"header","settings":{"align_logo":"left","logo":"","logo_max_width":135,"main_linklist":"main-menu","message":true,"color_bg":"#162950","color_text":"#ffffff"}},"hero":{"type":"hero","settings":{"alignment":"center","hero_size":"x-large","text_size":"large"}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"image":"","alignment":"center center"}},"1492095993817":{"type":"image","settings":{"image":"","alignment":"center"}}},"block_order":["slideshow-0","1492095993817"],"settings":{"slideshow_height":"medium","text_size":"medium","autorotate":false,"autorotate_speed":5}},"featured-collections":{"type":"collection","settings":{"grid":3,"rows":1,"show_vendor":true,"show_view_all":true}},"product-template":{"type":"product-template","settings":{"show_quantity_selector":false,"show_vendor":false,"show_share_buttons":true,"media_size":"medium","enable_image_zoom":true,"enable_video_looping":false}},"collection-template":{"type":"collection-template","settings":{"layout":"grid","grid":2,"rows":2,"show_collection_image":true,"show_vendor":false,"sort_enable":true,"tags_enable":true}},"1492033809691":{"type":"map","settings":{}},"1492033877875":{"type":"quotes","blocks":{"1492033877875-0":{"type":"quote","settings":{}}},"block_order":["1492033877875-0"],"settings":{}},"1492033924902":{"type":"custom-content","blocks":{"1492033924902-0":{"type":"text","settings":{"width":"100%","alignment":"center","align_text":"center"}}},"block_order":["1492033924902-0"],"settings":{"title":""}},"1492096252560":{"type":"collection-list","blocks":{"1492096252560-0":{"type":"featured_collection","settings":{}},"1492096252560-1":{"type":"featured_collection","settings":{}},"1492096252560-2":{"type":"featured_collection","settings":{}}},"block_order":["1492096252560-0","1492096252560-1","1492096252560-2"],"settings":{"grid":3}},"blog-template":{"type":"blog-template","settings":{"layout":"grid","blog_show_author":true,"blog_show_date":false}},"article-template":{"type":"article-template","settings":{"blog_show_author":true,"blog_show_date":true,"show_share_buttons":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}},"footer":{"type":"footer","blocks":{"link_list":{"type":"link_list","settings":{}},"text":{"type":"text","settings":{}},"newsletter":{"type":"newsletter","settings":{}}},"block_order":["link_list","text","newsletter"],"settings":{"color_footer_bg":"#f8f8f8","color_footer_text":"#6d6d6d"}}},"content_for_index":["hero","featured-collections","slideshow","1492033924902","1492096252560","1492033877875","1492033809691"]}}}
+{
+  "current": {
+    "type_header_font": "montserrat_n7",
+    "type_base_font": "lato_n4",
+    "share_pinterest": false,
+    "social_twitter_link": "https:\/\/twitter.com\/m7kustom?s=11",
+    "social_instagram_link": "https:\/\/www.instagram.com\/m7kustom\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCXHCvDNsIn82kOip6f_gIJQ",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo_max_width": 185,
+          "main_linklist": "main-menu",
+          "message": false,
+          "home_page_only": true,
+          "message_text": "¡Ven a inaugurar el local!",
+          "message_link": "shopify:\/\/pages\/m7kalendar",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "disabled": true,
+        "settings": {
+          "layout": "left",
+          "title": "Imagen con texto",
+          "text": "<p>Vincula un texto largo con una imagen para dar visibilidad a tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad, estilo, o incluso ofrece una reseña.<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "disabled": true,
+        "blocks": {
+          "feature-columns-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Agregar un título o eslogan",
+              "text": "<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "feature-columns-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Agregar un título o eslogan",
+              "text": "<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Agregar un título o eslogan",
+              "text": "<p>Comparte entradas de blogs, productos o promociones con tus clientes. Usa este texto para describir productos, compartir detalles sobre la disponibilidad y el estilo, o como un espacio para mostrar reseñas recientes o preguntas frecuentes.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-0",
+          "feature-columns-1",
+          "feature-columns-2"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "Nuestro trabajo",
+          "collection": "sneakers-by-m7k",
+          "grid": 2,
+          "rows": 2,
+          "show_vendor": true,
+          "show_view_all": true
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "disabled": true,
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "disabled": true,
+        "blocks": {
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-0",
+          "image-bar-1",
+          "image-bar-2"
+        ],
+        "settings": {
+          "section_height": "medium"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "title": "Enlaces rápidos",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Boletín"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232",
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "6b67b9c0-3bae-4d5a-bbe4-0c2d964b5f51": {
+            "type": "collection",
+            "settings": {
+              "collection": "sneakers-by-m7k"
+            }
+          },
+          "e3b1ea81-ddfe-476a-9b8b-2aae8743a272": {
+            "type": "collection",
+            "settings": {
+              "collection": "camisetas-basik-by-m7k"
+            }
+          },
+          "e1687868-0f7a-4ddf-b7c9-6feefb0c032d": {
+            "type": "collection",
+            "settings": {
+              "collection": "accesorios-by-m7k"
+            }
+          },
+          "001d9020-08f0-4590-bcd2-9718027681db": {
+            "type": "collection",
+            "settings": {
+              "collection": "dellafuente-x-nike-by-m7k"
+            }
+          }
+        },
+        "block_order": [
+          "6b67b9c0-3bae-4d5a-bbe4-0c2d964b5f51",
+          "e3b1ea81-ddfe-476a-9b8b-2aae8743a272",
+          "e1687868-0f7a-4ddf-b7c9-6feefb0c032d",
+          "001d9020-08f0-4590-bcd2-9718027681db"
+        ],
+        "settings": {
+          "display_type": "all",
+          "sort": "date_reversed",
+          "grid": 2
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": false,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "large",
+          "enable_image_zoom": true,
+          "enable_video_looping": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "También te puede interesar",
+          "show_vendor": false
+        }
+      },
+      "1606215216577814cf": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/cuentanos_cuadrado.jpg",
+          "layout": "right",
+          "title": "¿Te imaginas unas zapatillas que solo tú puedas tener?",
+          "text": "<p>Deja volar tu imaginación y cuentanos esa idea que te gustaria plasmar en una de nuestras zapatillas y nosostros nos ocuparemos de trasladar esa idea al diseño.<\/p><p>Contáctanos y cuéntanos que historia te gustaría contar con tus  <em>Sneakers<\/em> personalizadas.<\/p><p><\/p>",
+          "button_label": "Cuéntanos ;)",
+          "button_link": "shopify:\/\/pages\/cuentanos-tu-idea"
+        }
+      },
+      "16062164102ce7b4c0": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Screenshot_2020-10-19_at_19.46.58.png",
+          "image_position": "center center",
+          "video_link": "https:\/\/www.youtube.com\/watch?v=3pQKrwwLtSI&t=5s",
+          "show_overlay": true,
+          "style": "image_with_play",
+          "height": "medium",
+          "video_title": "CONÓCENOS EN NUESTRA PRIMERA ENTREVISTA",
+          "text_size": "medium"
+        }
+      },
+      "1606216423cf0fd0c0": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "af-1-x-by-skyers-x-m7k",
+          "show_quantity_selector": false,
+          "show_vendor": true,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "162705625279f3ce6a": {
+        "type": "slideshow",
+        "blocks": {
+          "005f4001-262a-47e0-8336-5fcbc7147cee": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RENDER_FINAL.png",
+              "alignment": "center center",
+              "slide_title": "¡VEN A INAUGURAR EL LOCAL!",
+              "subheading": "C\/ Torrent de les flors 74, Barcelona",
+              "button_label": "saber más",
+              "button_link": "shopify:\/\/pages\/inaguracion"
+            }
+          },
+          "162705625279f3ce6a-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/P1090446.jpg",
+              "alignment": "center center",
+              "slide_title": "Bienvenid@ a la #familiaM7K",
+              "subheading": "\"MÁS QUE UNA MARCA LA #FAMILIAM7K\"",
+              "button_label": "@M7K-SNEAKER.CUSTOM",
+              "button_link": "https:\/\/www.instagram.com\/m7kustom\/"
+            }
+          },
+          "162705625279f3ce6a-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copia_de_20_2.png",
+              "alignment": "center center",
+              "slide_title": "\"BLACK FRIDAY\"",
+              "subheading": "\"20% DE DESCUENTO EN TODA LA WEB\"",
+              "button_label": "\"BLACK20FORYOU\" - COMPRA YA!",
+              "button_link": "shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"
+            }
+          },
+          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/P1070840.jpg",
+              "alignment": "center center",
+              "slide_title": "\"Hacemos todas nuestras obras a mano y con corazón\"",
+              "subheading": "#HANDMADE #MADEWITHLOVE",
+              "button_label": "NUESTRO TRABAJO",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/P1100858.jpg",
+              "alignment": "center bottom",
+              "slide_title": "",
+              "subheading": "\"SPREAD YOUR WING\"",
+              "button_label": "HAZTE CON ELLA!",
+              "button_link": "shopify:\/\/collections\/spread-your-wings-skyersco-x-m7k"
+            }
+          },
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copia_de_M7KALENDAR_1.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "NO TE PIERDAS NINGÚN LANZAMIENTO",
+              "button_label": "M7KALENDAR",
+              "button_link": "shopify:\/\/pages\/m7kalendar"
+            }
+          }
+        },
+        "block_order": [
+          "005f4001-262a-47e0-8336-5fcbc7147cee",
+          "162705625279f3ce6a-0",
+          "162705625279f3ce6a-1",
+          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
+          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8",
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "large",
+          "text_alignment": "center center",
+          "show_overlay": true,
+          "autorotate": false,
+          "autorotate_speed": 5
+        }
+      },
+      "16270562931af9adff": {
+        "type": "video",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/P1080392.jpg",
+          "image_position": "center center",
+          "video_link": "https:\/\/www.youtube.com\/watch?v=S9w8Whc41ok",
+          "show_overlay": true,
+          "style": "image_with_play",
+          "height": "medium",
+          "video_title": "PROCESO AF-1 PIXEL x CAROLINA HERRERA",
+          "text_size": "medium"
+        }
+      },
+      "1629661186a4896892": {
+        "type": "newsletter",
+        "settings": {
+          "section_title": "Suscríbete a nuestra Newsletter",
+          "subheading": "<p>Enterate antes que nadie de las nuevas ofertas y lanzamientos!<\/p>",
+          "show_background": true
+        }
+      },
+      "163519134556be83d4": {
+        "type": "collection",
+        "disabled": true,
+        "settings": {
+          "title": "Colección destacada",
+          "collection": "spread-your-wings-skyersco-x-m7k",
+          "grid": 2,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "1637844879c45b1d19": {
+        "type": "feature-row",
+        "disabled": true,
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Copia_de_20_2.png",
+          "layout": "left",
+          "title": "REBAJAS 20%  EN TODA LA WEB",
+          "text": "<p>Como much@s nos habéis pedido unas ofertitas este año, os hemos preparado un descuento especial para este día. Queremos celebrar los 2 años de nuestra marca con un <strong>20% de descuento en toda la Web<\/strong>!<\/p>",
+          "button_label": "¿Cómo tener la oferta?",
+          "button_link": "shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"
+        }
+      },
+      "16378471705da657b6": {
+        "type": "featured-blog",
+        "settings": {
+          "title": "Entradas del blog",
+          "blog": "noticias",
+          "post_limit": 3,
+          "blog_show_author": false,
+          "blog_show_date": false,
+          "show_view_all": false
+        }
+      },
+      "16504813776bf76406": {
+        "type": "quotes",
+        "blocks": {
+          "16504813776bf76406-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "16504813776bf76406-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "16504813776bf76406-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          }
+        },
+        "block_order": [
+          "16504813776bf76406-0",
+          "16504813776bf76406-1",
+          "16504813776bf76406-2"
+        ],
+        "settings": {
+          "title": "Testimonios"
+        }
+      }
+    },
+    "content_for_index": [
+      "162705625279f3ce6a",
+      "1606215216577814cf",
+      "1637844879c45b1d19",
+      "163519134556be83d4",
+      "1606216423cf0fd0c0",
+      "collection",
+      "16504813776bf76406",
+      "1629661186a4896892",
+      "16378471705da657b6",
+      "16062164102ce7b4c0",
+      "16270562931af9adff"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {
+          }
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {
+          }
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
