@@ -1,5 +1,13 @@
 {
   "current": {
+    "color_button": "#0d0b00",
+    "color_button_text": "#fce003",
+    "color_small_button_text_border": "#3a3a3a",
+    "color_text_field_border": "#ebebeb",
+    "color_text_field": "#ffffff",
+    "color_image_overlay": "#fce003",
+    "image_overlay_opacity": 2,
+    "color_borders": "#ebebeb",
     "type_header_font": "montserrat_n7",
     "type_base_font": "lato_n4",
     "share_pinterest": false,
