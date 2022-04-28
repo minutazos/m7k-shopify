@@ -282,8 +282,8 @@
           "image": "shopify:\/\/shop_images\/cuentanos_cuadrado.jpg",
           "layout": "right",
           "title": "¿Te imaginas unas zapatillas que solo tú puedas tener?",
-          "text": "<p>Deja volar tu imaginación y cuentanos esa idea que te gustaria plasmar en una de nuestras zapatillas y nosostros nos ocuparemos de trasladar esa idea al diseño.<\/p><p>Contáctanos y cuéntanos que historia te gustaría contar con tus  <em>Sneakers<\/em> personalizadas.<\/p><p><\/p>",
-          "button_label": "Cuéntanos ;)",
+          "text": "<p>Deja volar tu imaginación y cuéntanos esa idea que te gustaría plasmar en una de nuestras zapatillas y nosostros nos ocuparemos de trasladar esa idea al diseño.<\/p><p>Contáctanos y cuéntanos que historia te gustaría contar con tus  <em>Sneakers<\/em> personalizadas.<\/p><p><\/p>",
+          "button_label": "Cuéntanos!",
           "button_link": "shopify:\/\/pages\/cuentanos-tu-idea"
         }
       },
@@ -303,6 +303,7 @@
       },
       "1606216423cf0fd0c0": {
         "type": "featured-product",
+        "disabled": true,
         "settings": {
           "featured_product": "af-1-x-by-skyers-x-m7k",
           "show_quantity_selector": false,
@@ -406,6 +407,7 @@
       },
       "16270562931af9adff": {
         "type": "video",
+        "disabled": true,
         "settings": {
           "image": "shopify:\/\/shop_images\/P1080392.jpg",
           "image_position": "center center",
@@ -595,14 +597,14 @@
       "162705625279f3ce6a",
       "collection",
       "1606215216577814cf",
+      "1629661186a4896892",
       "16511629120258179f",
       "1637844879c45b1d19",
       "163519134556be83d4",
-      "1629661186a4896892",
       "1606216423cf0fd0c0",
       "16504813776bf76406",
-      "16270562931af9adff",
       "1651177181eee16973",
+      "16270562931af9adff",
       "16378471705da657b6",
       "16062164102ce7b4c0",
       "1651178877d5aba558"
