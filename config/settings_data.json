@@ -227,7 +227,7 @@
         ],
         "settings": {
           "display_type": "all",
-          "sort": "date_reversed",
+          "sort": "alphabetical_reversed",
           "grid": 2
         }
       },
