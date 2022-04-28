@@ -12,7 +12,8 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": 175,
+          "logo": "shopify:\/\/shop_images\/Con_Ojos_y_sin_fecha-10_5f373bc5-ba64-48d9-9443-5a4427d1f3ff.png",
+          "logo_max_width": 90,
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
@@ -167,6 +168,14 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "title": "Enlaces rápidos",
+              "menu": ""
+            }
+          },
+          "5129e39e-313c-4402-a795-c3b5a011a62c": {
+            "type": "link_list",
             "settings": {
               "title": "Enlaces rápidos",
               "menu": "footer"
@@ -181,6 +190,7 @@
         },
         "block_order": [
           "footer-0",
+          "5129e39e-313c-4402-a795-c3b5a011a62c",
           "footer-1"
         ],
         "settings": {
@@ -252,7 +262,7 @@
           "enable_payment_button": true,
           "show_share_buttons": true,
           "media_size": "large",
-          "enable_image_zoom": true,
+          "enable_image_zoom": false,
           "enable_video_looping": true
         }
       },
