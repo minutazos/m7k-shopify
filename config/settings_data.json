@@ -353,6 +353,7 @@
           },
           "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/P1100858.jpg",
               "alignment": "center bottom",
@@ -369,9 +370,9 @@
               "image": "shopify:\/\/shop_images\/Copia_de_M7KALENDAR_1.png",
               "alignment": "center center",
               "slide_title": "",
-              "subheading": "NO TE PIERDAS NINGÚN LANZAMIENTO",
-              "button_label": "M7KALENDAR",
-              "button_link": "shopify:\/\/pages\/m7kalendar"
+              "subheading": "¡ÚNETE A LA F7MILIA!",
+              "button_label": "",
+              "button_link": ""
             }
           }
         },
