@@ -83,7 +83,7 @@
           "title": "Nuestro trabajo",
           "collection": "sneakers-by-m7k",
           "grid": 2,
-          "rows": 2,
+          "rows": 1,
           "show_vendor": true,
           "show_view_all": true
         }
@@ -213,6 +213,7 @@
           },
           "001d9020-08f0-4590-bcd2-9718027681db": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "dellafuente-x-nike-by-m7k"
             }
