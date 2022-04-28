@@ -5,8 +5,9 @@
     "color_small_button_text_border": "#3a3a3a",
     "color_text_field_border": "#ebebeb",
     "color_text_field": "#ffffff",
-    "color_image_overlay": "#fce003",
-    "image_overlay_opacity": 2,
+    "color_image_overlay_text": "#ededec",
+    "color_image_overlay": "#cccbcb",
+    "image_overlay_opacity": 32,
     "color_borders": "#fce003",
     "type_header_font": "montserrat_n7",
     "type_base_font": "lato_n4",
@@ -332,7 +333,7 @@
               "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
               "alignment": "center top",
               "slide_title": "1ª TIENDA DE ESPAÑA \"SNEAKER CUSTOM\"",
-              "subheading": "C\/ Torrent de les flors 75, Barcelona",
+              "subheading": "Carrer Torrent de les flors 75, Barcelona",
               "button_label": "VISÍTANOS",
               "button_link": "shopify:\/\/pages\/inaguracion"
             }
