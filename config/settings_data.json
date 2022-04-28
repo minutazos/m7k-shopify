@@ -561,19 +561,22 @@
           "1651178877d5aba558-1": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/alpha6corporationlogo-1.png",
+              "link": "https:\/\/alpha6corporation.com\/"
             }
           },
           "1651178877d5aba558-2": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/alphaflex_crisp_small_fb277eb9-ab05-4caf-b258-5733ade3c12f.png",
+              "link": "https:\/\/alpha6corporation.com\/alphaflex-flexible-textile-leather-paint\/"
             }
           },
           "1651178877d5aba558-3": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/Con_Ojos_y_sin_fecha-10_5f373bc5-ba64-48d9-9443-5a4427d1f3ff.png",
+              "link": "https:\/\/m7ksneakercustom.com\/"
             }
           }
         },
@@ -584,7 +587,7 @@
           "1651178877d5aba558-3"
         ],
         "settings": {
-          "title": "Lista de logos"
+          "title": "Proveedores oficiales"
         }
       }
     },
