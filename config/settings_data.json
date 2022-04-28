@@ -355,8 +355,8 @@
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/P1070840.jpg",
-              "alignment": "center center",
+              "image": "shopify:\/\/shop_images\/banner_dj_nano.png",
+              "alignment": "center top",
               "slide_title": "Todas nuestras obras están hechas a mano.",
               "subheading": "#HANDMADE #MADEWITHLOVE",
               "button_label": "NUESTRO TRABAJO",
