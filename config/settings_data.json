@@ -7,6 +7,8 @@
     "social_facebook_link": "https:\/\/www.instagram.com\/m7kustom\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/m7kustom\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCXHCvDNsIn82kOip6f_gIJQ",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Con_Ojos_y_sin_fecha-10_5f373bc5-ba64-48d9-9443-5a4427d1f3ff.png",
+    "checkout_logo_size": "small",
     "sections": {
       "header": {
         "type": "header",
@@ -561,7 +563,15 @@
       "1651177181eee16973",
       "16378471705da657b6",
       "16062164102ce7b4c0"
-    ]
+    ],
+    "blocks": {
+      "6143736321357441667": {
+        "type": "shopify:\/\/apps\/tidio-live-chat\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
