@@ -331,7 +331,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
-              "alignment": "center top",
+              "alignment": "left top",
               "slide_title": "1ª TIENDA DE ESPAÑA \"SNEAKER CUSTOM\"",
               "subheading": "Carrer Torrent de les flors 75, Barcelona",
               "button_label": "VISÍTANOS",
