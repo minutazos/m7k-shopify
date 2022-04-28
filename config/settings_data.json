@@ -80,13 +80,12 @@
       },
       "collection": {
         "type": "collection",
-        "disabled": true,
         "settings": {
-          "title": "Nuestro trabajo",
+          "title": "Sneakers - by M7K",
           "collection": "sneakers-by-m7k",
-          "grid": 2,
+          "grid": 5,
           "rows": 1,
-          "show_vendor": true,
+          "show_vendor": false,
           "show_view_all": true
         }
       },
@@ -520,19 +519,19 @@
           "16511629120258179f-2"
         ],
         "settings": {
-          "title": "NUESTROS TRABAJOS",
+          "title": "",
           "grid": 3
         }
       }
     },
     "content_for_index": [
       "162705625279f3ce6a",
+      "collection",
+      "16511629120258179f",
       "1606215216577814cf",
       "1637844879c45b1d19",
       "163519134556be83d4",
-      "16511629120258179f",
       "1606216423cf0fd0c0",
-      "collection",
       "16504813776bf76406",
       "16270562931af9adff",
       "1629661186a4896892",
