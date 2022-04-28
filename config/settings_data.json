@@ -12,12 +12,12 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": 185,
+          "logo_max_width": 175,
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
           "message_text": "¡Ven a inaugurar el local!",
-          "message_link": "shopify:\/\/pages\/m7kalendar",
+          "message_link": "",
           "color_bg": "#3a3a3a",
           "color_text": "#ffffff"
         }
@@ -345,7 +345,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/P1070840.jpg",
               "alignment": "center center",
-              "slide_title": "\"Hacemos todas nuestras obras a mano y con corazón\"",
+              "slide_title": "Todas nuestras obras están hechas a mano.",
               "subheading": "#HANDMADE #MADEWITHLOVE",
               "button_label": "NUESTRO TRABAJO",
               "button_link": "shopify:\/\/collections\/all"
@@ -384,11 +384,11 @@
           "d75d0052-b18e-4c1c-8c0e-88d079d56edd"
         ],
         "settings": {
-          "slideshow_height": "adapt",
-          "text_size": "large",
+          "slideshow_height": "small",
+          "text_size": "medium",
           "text_alignment": "center center",
           "show_overlay": true,
-          "autorotate": false,
+          "autorotate": true,
           "autorotate_speed": 5
         }
       },
