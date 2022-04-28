@@ -14,8 +14,8 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/LOGO_INICIO_REDUCIDO_EL_PESO.png",
-          "logo_max_width": 80,
+          "logo": "shopify:\/\/shop_images\/PRUEBA_3_LOGO_INICIO.png",
+          "logo_max_width": 250,
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
