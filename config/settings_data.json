@@ -333,10 +333,10 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/Copia_de_20_2.png",
               "alignment": "center center",
-              "slide_title": "\"BLACK FRIDAY\"",
-              "subheading": "\"20% DE DESCUENTO EN TODA LA WEB\"",
-              "button_label": "\"BLACK20FORYOU\" - COMPRA YA!",
-              "button_link": "shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"
+              "slide_title": "Revive la inauguracion del 23\/04",
+              "subheading": "",
+              "button_label": "¡ECHA UN VISTAZO!",
+              "button_link": "shopify:\/\/blogs\/noticias\/inauguracion-local"
             }
           },
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
@@ -522,13 +522,26 @@
           "title": "",
           "grid": 3
         }
+      },
+      "1651177181eee16973": {
+        "type": "map",
+        "settings": {
+          "heading": "M7K - Sneaker Custom",
+          "address": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>Lun - Vie: 10 a.m. - 8 p.m. <br\/> Sábados: de 11 am a 09 pm <br\/> Domingos: cerrado<\/p>",
+          "map_address": "Carrer Torrent de les Flors 75, bajo",
+          "button_text": "¿cómo venir?",
+          "show_pin": true,
+          "api_key": "",
+          "background_image": "shopify:\/\/shop_images\/barcelona-city.jpg",
+          "background_image_position": "center center"
+        }
       }
     },
     "content_for_index": [
       "162705625279f3ce6a",
       "collection",
-      "16511629120258179f",
       "1606215216577814cf",
+      "16511629120258179f",
       "1637844879c45b1d19",
       "163519134556be83d4",
       "1606216423cf0fd0c0",
@@ -536,7 +549,8 @@
       "16270562931af9adff",
       "1629661186a4896892",
       "16378471705da657b6",
-      "16062164102ce7b4c0"
+      "16062164102ce7b4c0",
+      "1651177181eee16973"
     ]
   },
   "presets": {
