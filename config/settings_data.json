@@ -547,6 +547,45 @@
           "background_image": "shopify:\/\/shop_images\/prueba_mapa_2.png",
           "background_image_position": "center center"
         }
+      },
+      "1651178877d5aba558": {
+        "type": "logo-bar",
+        "blocks": {
+          "1651178877d5aba558-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/crep_logo.png",
+              "link": "https:\/\/crepprotect.com\/"
+            }
+          },
+          "1651178877d5aba558-1": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "1651178877d5aba558-2": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "1651178877d5aba558-3": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1651178877d5aba558-0",
+          "1651178877d5aba558-1",
+          "1651178877d5aba558-2",
+          "1651178877d5aba558-3"
+        ],
+        "settings": {
+          "title": "Lista de logos"
+        }
       }
     },
     "content_for_index": [
@@ -562,7 +601,8 @@
       "16270562931af9adff",
       "1651177181eee16973",
       "16378471705da657b6",
-      "16062164102ce7b4c0"
+      "16062164102ce7b4c0",
+      "1651178877d5aba558"
     ],
     "blocks": {
       "6143736321357441667": {
