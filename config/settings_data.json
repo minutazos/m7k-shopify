@@ -7,7 +7,7 @@
     "color_text_field": "#ffffff",
     "color_image_overlay": "#fce003",
     "image_overlay_opacity": 2,
-    "color_borders": "#ebebeb",
+    "color_borders": "#fce003",
     "type_header_font": "montserrat_n7",
     "type_base_font": "lato_n4",
     "share_pinterest": false,
@@ -249,7 +249,7 @@
         "settings": {
           "display_type": "all",
           "sort": "alphabetical_reversed",
-          "grid": 2
+          "grid": 3
         }
       },
       "collection-template": {
