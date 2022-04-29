@@ -188,7 +188,7 @@
           "5129e39e-313c-4402-a795-c3b5a011a62c": {
             "type": "link_list",
             "settings": {
-              "title": "Enlaces rápidos",
+              "title": "ACCESO RAPIDO",
               "menu": "footer"
             }
           },
@@ -599,6 +599,45 @@
         "settings": {
           "title": "Proveedores oficiales"
         }
+      },
+      "1651190497e67b5fbc": {
+        "type": "logo-bar",
+        "blocks": {
+          "1651190497e67b5fbc-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Logo-DjNano-1024x463.png",
+              "link": "https:\/\/www.instagram.com\/reel\/CcdpbqEqvzO\/"
+            }
+          },
+          "1651190497e67b5fbc-1": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "1651190497e67b5fbc-2": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "1651190497e67b5fbc-3": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1651190497e67b5fbc-0",
+          "1651190497e67b5fbc-1",
+          "1651190497e67b5fbc-2",
+          "1651190497e67b5fbc-3"
+        ],
+        "settings": {
+          "title": "TRABAJOS PARA CELEBRIDADES"
+        }
       }
     },
     "content_for_index": [
@@ -614,8 +653,9 @@
       "1651177181eee16973",
       "16270562931af9adff",
       "16378471705da657b6",
+      "1651178877d5aba558",
       "16062164102ce7b4c0",
-      "1651178877d5aba558"
+      "1651190497e67b5fbc"
     ],
     "blocks": {
       "6143736321357441667": {
