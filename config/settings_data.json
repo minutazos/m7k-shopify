@@ -671,7 +671,13 @@
     "blocks": {
       "6143736321357441667": {
         "type": "shopify:\/\/apps\/tidio-live-chat\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
-        "disabled": true,
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6858403126979251294": {
+        "type": "shopify:\/\/apps\/eu-gdpr-cookies-notification\/blocks\/omega-cookies-notification\/13cba824-a338-452e-9b8e-c83046a79f21",
+        "disabled": false,
         "settings": {
         }
       }
