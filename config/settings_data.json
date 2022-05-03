@@ -197,12 +197,20 @@
             "settings": {
               "title": "Boletín"
             }
+          },
+          "5b13c69d-e3b0-43dc-9106-d222d3f37f74": {
+            "type": "text",
+            "settings": {
+              "title": "Información de contacto",
+              "text": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>(+34) 623 10 45 52<\/p><p>contact@m7ksneakercustom.com<br\/><\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "5129e39e-313c-4402-a795-c3b5a011a62c",
-          "footer-1"
+          "footer-1",
+          "5b13c69d-e3b0-43dc-9106-d222d3f37f74"
         ],
         "settings": {
           "show_payment_icons": true,
