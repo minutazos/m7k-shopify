@@ -657,6 +657,15 @@
           "blog_show_date": true,
           "show_share_buttons": true
         }
+      },
+      "165162027006f9d5d5": {
+        "type": "instafeed",
+        "settings": {
+          "heading_font": "helvetica_n4",
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": ""
+        }
       }
     },
     "content_for_index": [
@@ -674,7 +683,8 @@
       "1651190497e67b5fbc",
       "16378471705da657b6",
       "16062164102ce7b4c0",
-      "1651178877d5aba558"
+      "1651178877d5aba558",
+      "165162027006f9d5d5"
     ],
     "blocks": {
       "6143736321357441667": {
