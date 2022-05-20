@@ -108,7 +108,7 @@
                         <span class="visually-hidden">{{ 'products.product.regular_price' | t }}</span>
                       </dt>
                       <dd>
-                        <s data-cart-item-original-price>{{ item.original_price | money }}</s>
+                        <s data-cart-item-original-price><div class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div></s>
                       </dd>
                       <dt>
                         <span class="visually-hidden">{{ 'products.product.sale_price' | t }}</span>
@@ -126,7 +126,7 @@
                         <span class="visually-hidden">{{ 'products.product.regular_price' | t }}</span>
                       </dt>
                       <dd data-cart-item-regular-price>
-                        {{ item.original_price | money }}
+                        <div class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div>
                       </dd>
                     </div>
 
@@ -208,7 +208,7 @@
                     <span class="visually-hidden">{{ 'cart.label.regular_total' | t }}</span>
                   </dt>
                   <dd>
-                    <s data-cart-item-original-price>{{ item.original_line_price | money }}</s>
+                    <s data-cart-item-original-price><div class="pn-total-line-item" data-id="{{ item.key }}">{{ item.original_line_price | money }}</div></s>
                   </dd>
                   <dt>
                     <span class="visually-hidden">{{ 'cart.label.discounted_total' | t }}</span>
@@ -222,7 +222,7 @@
                   Markup template for regular price item
                 {%- endcomment -%}
                 <div {% if item.original_line_price != item.final_line_price %}class="hide" {% endif %}data-cart-item-regular-price-group>
-                  <span data-cart-item-regular-price>{{ item.original_line_price | money }}</span>
+                  <span data-cart-item-regular-price><div class="pn-total-line-item" data-id="{{ item.key }}">{{ item.original_line_price | money }}</div></span>
                 </div>
               </td>
             </tr>
