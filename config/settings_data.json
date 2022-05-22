@@ -336,6 +336,17 @@
       "162705625279f3ce6a": {
         "type": "slideshow",
         "blocks": {
+          "162705625279f3ce6a-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
+              "alignment": "right center",
+              "slide_title": "PRE-ORDER \"Un Verano Sin Ti\"",
+              "subheading": "Adidas Forum 84 Low - Edición limitada \"23\"",
+              "button_label": "¡Consíguela!",
+              "button_link": "shopify:\/\/blogs\/noticias\/inauguracion-local"
+            }
+          },
           "005f4001-262a-47e0-8336-5fcbc7147cee": {
             "type": "image",
             "settings": {
@@ -356,18 +367,6 @@
               "subheading": "\"MÁS QUE UNA MARCA LA #FAMILIAM7K\"",
               "button_label": "@M7K-SNEAKER.CUSTOM",
               "button_link": "https:\/\/www.instagram.com\/m7k_sneaker.custom\/"
-            }
-          },
-          "162705625279f3ce6a-1": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Copia_de_20_2.png",
-              "alignment": "center center",
-              "slide_title": "Revive la inauguracion del 23\/04",
-              "subheading": "",
-              "button_label": "¡ECHA UN VISTAZO!",
-              "button_link": "shopify:\/\/blogs\/noticias\/inauguracion-local"
             }
           },
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
@@ -407,9 +406,9 @@
           }
         },
         "block_order": [
+          "162705625279f3ce6a-1",
           "005f4001-262a-47e0-8336-5fcbc7147cee",
           "162705625279f3ce6a-0",
-          "162705625279f3ce6a-1",
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
           "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8",
           "d75d0052-b18e-4c1c-8c0e-88d079d56edd"
