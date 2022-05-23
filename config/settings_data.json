@@ -321,9 +321,8 @@
       },
       "1606216423cf0fd0c0": {
         "type": "featured-product",
-        "disabled": true,
         "settings": {
-          "featured_product": "af-1-x-by-skyers-x-m7k",
+          "featured_product": "pre-order-adidas-forum-low-84-un-verano-sin-ti",
           "show_quantity_selector": false,
           "show_vendor": true,
           "enable_payment_button": true,
@@ -670,13 +669,13 @@
     },
     "content_for_index": [
       "162705625279f3ce6a",
+      "1606216423cf0fd0c0",
       "collection",
       "1606215216577814cf",
       "1629661186a4896892",
       "16511629120258179f",
       "1637844879c45b1d19",
       "163519134556be83d4",
-      "1606216423cf0fd0c0",
       "16504813776bf76406",
       "1651177181eee16973",
       "16270562931af9adff",
