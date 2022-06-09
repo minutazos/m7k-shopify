@@ -556,7 +556,7 @@
         "type": "map",
         "settings": {
           "heading": "M7K - Sneaker Custom",
-          "address": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>Lun - Vie: 10 a.m. - 8 p.m. <br\/> Sábados: de 11 am a 09 pm <br\/> Domingos: cerrado<\/p>",
+          "address": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>Lun - Vie: 10:30-14:0 - 17:00-20:00 <br\/> Sábados: de 17:00 - 20:30<br\/> Domingos: cerrado<\/p>",
           "map_address": "Carrer Torrent de les Flors 75, bajo",
           "button_text": "¿cómo venir?",
           "show_pin": true,
