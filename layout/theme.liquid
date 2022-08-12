@@ -166,7 +166,7 @@
 
   {{ content_for_header }}
   {% include 'tipo.booking.script' %}
-</head>
+{% include "ot-cookies" %}</head>
 
 <body class="template-{{ request.page_type | handle }}">
 
