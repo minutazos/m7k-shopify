@@ -335,17 +335,6 @@
       "162705625279f3ce6a": {
         "type": "slideshow",
         "blocks": {
-          "162705625279f3ce6a-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
-              "alignment": "right center",
-              "slide_title": "NEW DROP 2\/06  - \"Un Verano Sin Ti\"",
-              "subheading": "Adidas Forum Low - Edición limitada \"23\"",
-              "button_label": "¡Consíguela!",
-              "button_link": "shopify:\/\/products\/pre-order-adidas-forum-low-84-un-verano-sin-ti"
-            }
-          },
           "005f4001-262a-47e0-8336-5fcbc7147cee": {
             "type": "image",
             "settings": {
@@ -355,6 +344,17 @@
               "subheading": "Carrer Torrent de les flors 75, Barcelona",
               "button_label": "VISÍTANOS",
               "button_link": "shopify:\/\/pages\/inaguracion"
+            }
+          },
+          "162705625279f3ce6a-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
+              "alignment": "right center",
+              "slide_title": "DROP 2\/06  - \"Un Verano Sin Ti\"",
+              "subheading": "Adidas Forum Low - Edición limitada \"23\"",
+              "button_label": "¡Consíguela!",
+              "button_link": "shopify:\/\/products\/pre-order-adidas-forum-low-84-un-verano-sin-ti"
             }
           },
           "162705625279f3ce6a-0": {
@@ -405,8 +405,8 @@
           }
         },
         "block_order": [
-          "162705625279f3ce6a-1",
           "005f4001-262a-47e0-8336-5fcbc7147cee",
+          "162705625279f3ce6a-1",
           "162705625279f3ce6a-0",
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
           "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8",
