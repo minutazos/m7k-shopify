@@ -396,8 +396,8 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/BANNER2_300x_a30f4cb4-3063-4477-b56b-947a5517d75a.png",
               "alignment": "left bottom",
-              "slide_title": "",
-              "subheading": "",
+              "slide_title": "...",
+              "subheading": "....",
               "button_label": "QUIERO APRENDER!",
               "button_link": "shopify:\/\/pages\/trabaja-con-nosotros"
             }
