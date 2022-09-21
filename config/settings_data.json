@@ -321,6 +321,7 @@
       },
       "1606216423cf0fd0c0": {
         "type": "featured-product",
+        "disabled": true,
         "settings": {
           "featured_product": "pre-order-adidas-forum-low-84-un-verano-sin-ti",
           "show_quantity_selector": false,
@@ -394,7 +395,7 @@
           "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_fondo_azuk.png",
+              "image": "shopify:\/\/shop_images\/CUADRADO_INSTAGRAM_BUENO.png",
               "alignment": "center center",
               "slide_title": "¡Aprende con nosotros!",
               "subheading": "",
