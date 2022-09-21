@@ -393,14 +393,13 @@
           },
           "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
             "type": "image",
-            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_reducido_1_300x_c2a58031-3c70-48cf-9abd-c19cd9501960.png",
-              "alignment": "center center",
+              "image": "shopify:\/\/shop_images\/BANNER2_300x_a30f4cb4-3063-4477-b56b-947a5517d75a.png",
+              "alignment": "left bottom",
               "slide_title": "",
               "subheading": "",
               "button_label": "QUIERO APRENDER!",
-              "button_link": ""
+              "button_link": "shopify:\/\/pages\/trabaja-con-nosotros"
             }
           }
         },
