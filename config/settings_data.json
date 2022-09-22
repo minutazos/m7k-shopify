@@ -661,8 +661,8 @@
         "type": "instafeed",
         "settings": {
           "heading_font": "helvetica_n4",
-          "heading_size": 20,
-          "feed_width": 100,
+          "heading_size": 22,
+          "feed_width": 95,
           "html_area": ""
         }
       }
