@@ -336,6 +336,17 @@
       "162705625279f3ce6a": {
         "type": "slideshow",
         "blocks": {
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CUADRADO_INSTAGRAM_BUENO.png",
+              "alignment": "center center",
+              "slide_title": "¡Aprende con nosotros!",
+              "subheading": "",
+              "button_label": "+info academia!",
+              "button_link": "shopify:\/\/pages\/academia"
+            }
+          },
           "005f4001-262a-47e0-8336-5fcbc7147cee": {
             "type": "image",
             "settings": {
@@ -391,26 +402,15 @@
               "button_label": "HAZTE CON ELLA!",
               "button_link": "shopify:\/\/collections\/spread-your-wings-skyersco-x-m7k"
             }
-          },
-          "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/CUADRADO_INSTAGRAM_BUENO.png",
-              "alignment": "center center",
-              "slide_title": "¡Aprende con nosotros!",
-              "subheading": "",
-              "button_label": "+info academia!",
-              "button_link": "shopify:\/\/pages\/academia"
-            }
           }
         },
         "block_order": [
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd",
           "005f4001-262a-47e0-8336-5fcbc7147cee",
           "162705625279f3ce6a-1",
           "162705625279f3ce6a-0",
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
-          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8",
-          "d75d0052-b18e-4c1c-8c0e-88d079d56edd"
+          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8"
         ],
         "settings": {
           "slideshow_height": "small",
