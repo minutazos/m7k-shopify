@@ -665,6 +665,40 @@
           "feed_width": 95,
           "html_area": ""
         }
+      },
+      "1664381763157fdbaa": {
+        "type": "quotes",
+        "blocks": {
+          "1664381763157fdbaa-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "1664381763157fdbaa-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          },
+          "1664381763157fdbaa-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Agrega las reseñas y los testimonios de los clientes para mostrar a los clientes satisfechos de tu tienda.<\/p>",
+              "author": "Nombre del autor"
+            }
+          }
+        },
+        "block_order": [
+          "1664381763157fdbaa-0",
+          "1664381763157fdbaa-1",
+          "1664381763157fdbaa-2"
+        ],
+        "settings": {
+          "title": "Testimonios"
+        }
       }
     },
     "content_for_index": [
@@ -683,7 +717,8 @@
       "16378471705da657b6",
       "16062164102ce7b4c0",
       "1651178877d5aba558",
-      "165162027006f9d5d5"
+      "165162027006f9d5d5",
+      "1664381763157fdbaa"
     ],
     "blocks": {
       "6143736321357441667": {
