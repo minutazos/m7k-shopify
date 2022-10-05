@@ -164,7 +164,8 @@
     }
   </script>
 
-  {{ content_for_header }}
+  {{ content_for_header }} 
+ {{ 'servicify-asset.js' | asset_url | script_tag }}
   {% include 'tipo.booking.script' %}
 {% include "ot-cookies" %}</head>
 
