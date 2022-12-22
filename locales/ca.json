@@ -84,5 +84,19 @@
         "new_window_and_external": "Obre lloc extern extern en una finestra nova."
       }
     }
+  },
+  "homepage": {
+    "general": {
+      "title": "Pàgina d'inici"
+    },
+    "onboarding": {
+      "product_title": "Nom del teu producte",
+      "product_description": "Aquest camp s'utilitza per descriure els detalls del producte. Informa els clients sobre l'aparença, percepció i estil del teu producte. Inclou detalls sobre el color, els materials utilitzats, la mida i on es va fer.",
+      "collection_title": "Nom de la teva col·lecció",
+      "blog_title": "Títol de la teva publicació",
+      "blog_excerpt": "La teva botiga no ha publicat cap entrada al bloc. Un bloc pot ser utilitzat per parlar sobre els nous llançaments del producte, consells o altres notícies que vols compartir amb els teus clients. Pots verificar el bloc de comerç electrònic Shopify per a la inspiració i consells per a la teva pròpia botiga i bloc.",
+      "blog_author": "Nom de l'autor",
+      "no_content": "Aquesta secció no té cap contingut en aquest moment. Afegeix contingut a aquesta secció utilitzant la barra lateral."
+    }
   }
 }
