@@ -133,7 +133,37 @@
       "title": "Buscar el nostre lloc",
       "placeholder": "Buscar ",
       "submit": "Buscar",
-      "close": "Cerrar"
+      "close": "Cerrar",
+      "heading": {
+        "one": "Resultat de recerca",
+        "other": "Resultats de la recerca"
+      },
+      "search_for": "Buscar",
+      "products": "Productes",
+      "loading": "Carregant",
+      "clear_search_term": "Esborrar terme de recerca",
+      "number_of_results": "{{ result_number }} de {{ results_count }}",
+      "number_of_results_found": "{{ results_count }} resultados trobats",
+      "one_result_found": "1 resultat trobat"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Subscriu-te a la nostra llista de distribució",
+      "email_placeholder": "Direcció de correu electrònic",
+      "confirmation": "Gràcies per subscriure't!",
+      "submit": "Subscriure's"
+    },
+    "filters": {
+      "show_more": "Veure més",
+      "show_less": "Mostrar menys"
+    },
+    "payment": {
+      "method": "Mètodes de pagament"
+    },
+    "currency": {
+      "dropdown_label": "Moneda"
+    },
+    "language": {
+      "dropdown_label": "Idioma"
     }
   },
   "homepage": {
