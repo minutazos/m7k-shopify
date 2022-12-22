@@ -237,7 +237,10 @@
       "quantity_minimum_message": "La quantitat ha de ser 1 o més",
       "include_taxes": "Impost inclòs.",
       "shipping_policy_html": "Les despeses d'enviament es calculen a la pantalla de pagaments.",
-      "unit_price_label": "Preu unitari"
+      "unit_price_label": "Preu unitari",
+      "view_cart": "Veure cistella",
+      "view_in_space": "Veure en el teu espai",
+      "view_in_space_label": "Veure al teu espai, carrega l'article a la finestra de realitat augmentada"
     }
   }
 }
