@@ -24,7 +24,11 @@
       "moderated": "Si us plau tingueu en compte que els comentaris han de ser aprovats abans de ser publicats",
       "success_moderated": "El vostre comentari s'ha compartit amb èxit. Ho publicarem en un moment, mentre el nostre bloc sigui moderat.",
       "success": "El vostre comentari s'ha compartit amb èxit! Gràcies!",
-      "unapproved": "L'adreça de correu electrònic proporcionada no s'aprova per publicar comentaris."
+      "unapproved": "L'adreça de correu electrònic proporcionada no s'aprova per publicar comentaris.",
+      "comments_with_count": {
+        "one": "{{ count }} comentari",
+        "other": "{{ count }} comentaris"
+      }
     }
   }
 }
