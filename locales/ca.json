@@ -274,5 +274,15 @@
       "resume": "Reprendre el vídeo {{ vídeo_title }}",
       "close": "Tancar el vídeo {{ video_title }}"
     }
+  },
+  "store_availability": {
+    "general": {
+      "view_store_info": "Veure informació de la botiga",
+      "check_other_stores": "Verificar disponibilitat a altres botigues",
+      "pick_up_available": "Retir disponible",
+      "pick_up_currently_unavailable": "Retir no disponible actualment",
+      "pick_up_available_at_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Retir disponible en&nbsp;<\/span><strong data-mce-fragment=\"1\">{{ location_name }}<\/strong>",
+      "pick_up_unavailable_at_html": "Retir no disponible actualment a&nbsp;<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">&nbsp;<\/span><strong data-mce-fragment=\"1\">{{ location_name }}<\/strong>"
+    }
   }
 }
