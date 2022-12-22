@@ -1,0 +1,30 @@
+{
+  "blogs": {
+    "article": {
+      "view_all": "Veure-ho tot",
+      "view_all_blogs": "Veure tots els articles",
+      "all_topics": "Tots els temes",
+      "by_author": "per {{ author }}",
+      "posted_in": "Publicat en",
+      "read_more": "Llegir més",
+      "read_more_title": "Llegir més: {{ title }}",
+      "back_to_blog": "Tornar a {{ title }}",
+      "tags": "Etiquetes",
+      "article_with_count": {
+        "one": "{{ count }} artícle",
+        "other": "{{ count }} artícles"
+      }
+    },
+    "comments": {
+      "title": "Deixa un comentari",
+      "name": "Nom",
+      "email": "Correu electrònic",
+      "message": "Missatge",
+      "post": "Publicar comentari",
+      "moderated": "Si us plau tingueu en compte que els comentaris han de ser aprovats abans de ser publicats",
+      "success_moderated": "El vostre comentari s'ha compartit amb èxit. Ho publicarem en un moment, mentre el nostre bloc sigui moderat.",
+      "success": "El vostre comentari s'ha compartit amb èxit! Gràcies!",
+      "unapproved": "L'adreça de correu electrònic proporcionada no s'aprova per publicar comentaris."
+    }
+  }
+}
