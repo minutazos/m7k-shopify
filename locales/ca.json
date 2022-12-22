@@ -30,5 +30,31 @@
         "other": "{{ count }} comentaris"
       }
     }
+  },
+  "cart": {
+    "general": {
+      "title": "Cistella de compra",
+      "note": "Afegiu una nota a la vostra comanda",
+      "removed_item_html": "Has eliminat ({{ quantity }}) {{ link }} de la teva cistella de compra.",
+      "remove": "Treure",
+      "subtotal": "Subtotal",
+      "savings": "Està estalviant",
+      "taxes_and_shipping_at_checkout": "Els impostos i les despeses d'enviament es calculen a la pantalla de pagaments",
+      "taxes_and_shipping_policy_at_checkout_html": "Els impostos i les despeses d'enviament es calculen a la pantalla de pagaments",
+      "taxes_included_but_shipping_at_checkout": "A la pantalla de pagament s'inclou l'impost i es calculen les despeses d'enviament",
+      "taxes_included_and_shipping_policy_html": "Impost inclòs. Les despeses d'enviament es calculen a la pantalla de pagaments.",
+      "update": "Actualitzar cistella",
+      "checkout": "Finalitzar comanda",
+      "empty": "La seva cistella actualment és buida",
+      "cookies_required": "Habiliteu les galetes per utilitzar el carretó de la compra",
+      "continue_shopping": "Seguir comprant",
+      "cart_error": "S'ha produït un error en actualitzar la cistella. Torna-ho a intentar."
+    },
+    "label": {
+      "discounted_total": "Descompte total",
+      "product": "Producte",
+      "price": "Preu",
+      "price_column": "Vegeu la columna de Preu per a detalls del descompte."
+    }
   }
 }
