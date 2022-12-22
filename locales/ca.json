@@ -179,5 +179,21 @@
       "blog_author": "Nom de l'autor",
       "no_content": "Aquesta secció no té cap contingut en aquest moment. Afegeix contingut a aquesta secció utilitzant la barra lateral."
     }
+  },
+  "gift_cards": {
+    "issued": {
+      "title_html": "Aquí està la seva targeta de regal de {{ value }} per a {{ shop }}!",
+      "subtext": "Aquí hi ha la teva targeta de regal!",
+      "gift_card_code": "codi de targeta de regal",
+      "disabled": "Inhabilitada",
+      "expired": "Va expirar a {{ expiry }}",
+      "active": "Expira en {{ expiry }}",
+      "redeem_html": "Utilitzeu aquest codi en acabar la compra per bescanviar la seva {{ value }} targeta de regal",
+      "shop_link": "Començar a comprar",
+      "print": "Imprimiu aquesta targeta regal",
+      "remaining_html": "{{ balanç }} restant",
+      "add_to_apple_wallet": "Afegir a Apple Wallet",
+      "qr_image_alt": "Codi QR - escanejar per bescanviar la targeta de regal"
+    }
   }
 }
