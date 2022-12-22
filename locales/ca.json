@@ -105,7 +105,35 @@
     "password_page": {
       "opening_soon": "Apertura próximament",
       "login_form_heading": "Entrar a la botiga utilitzant contrasenya",
-      "login_form_password_label": "Contrasenya"
+      "login_form_password_label": "Contrasenya",
+      "login_form_password_placeholder": "La teva contrasenya",
+      "login_form_submit": "Ingressar",
+      "signup_form_email_label": "Correu electrònic",
+      "signup_form_success": "T'enviarem un correu electrònic abans d'inaugurar!",
+      "admin_link_html": "Ets el propietari de la botiga? Registra't aquí",
+      "password_link": "Entrar utilitzant contrasenya"
+    },
+    "social": {
+      "share_on_facebook": "Compartir",
+      "share_on_twitter": "Tuitejar",
+      "share_on_pinterest": "Fer pin",
+      "alt_text": {
+        "share_on_facebook": "Compartir a Facebook",
+        "share_on_twitter": "Tuitejar a Twitter",
+        "share_on_pinterest": "Pinejar a Pinterest"
+      }
+    },
+    "search": {
+      "no_results": "Intenta revisar l'ortografía o utilitzar paraules diferents.",
+      "empty_search_message": "El camp de cerca no pot estar buit",
+      "results_with_count": {
+        "one": "{{ count }} resultat per a \"{{ terms }}\"",
+        "other": "{{ count }} resultats per a \"{{ terms }}\""
+      },
+      "title": "Buscar el nostre lloc",
+      "placeholder": "Buscar ",
+      "submit": "Buscar",
+      "close": "Cerrar"
     }
   },
   "homepage": {
