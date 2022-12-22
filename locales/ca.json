@@ -73,5 +73,16 @@
       "quantity": "Quantitat",
       "quantity_label": "Quantitat: {{ quantity_count }}"
     }
+  },
+  "general": {
+    "accessibility": {
+      "skip_to_content": "Anar directamente al contingut",
+      "close_modal": "Tancar",
+      "link_messages": {
+        "new_window": "Obre en una finestra nova.",
+        "external": "Obre lloc extern.",
+        "new_window_and_external": "Obre lloc extern extern en una finestra nova."
+      }
+    }
   }
 }
