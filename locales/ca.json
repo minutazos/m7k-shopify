@@ -54,7 +54,24 @@
       "discounted_total": "Descompte total",
       "product": "Producte",
       "price": "Preu",
-      "price_column": "Vegeu la columna de Preu per a detalls del descompte."
+      "price_column": "Vegeu la columna de Preu per a detalls del descompte.",
+      "product_details": "Detalls del producte",
+      "quantity": "Quantitat",
+      "qty": "Quantitat",
+      "regular_total": "Preu regular total",
+      "remove": "Eliminar {{ product }}",
+      "total": "Total",
+      "update": "Actualitzar carret"
+    },
+    "popup": {
+      "added_to_cart": "Acabat d'afegir a la cistella de la compra",
+      "cart_count": {
+        "one": "{{ count }} artícle",
+        "other": "{{ count }} artícles"
+      },
+      "product_details": "Detalls del producte",
+      "quantity": "Quantitat",
+      "quantity_label": "Quantitat: {{ quantity_count }}"
     }
   }
 }
