@@ -333,94 +333,6 @@
           "enable_video_looping": false
         }
       },
-      "162705625279f3ce6a": {
-        "type": "slideshow",
-        "blocks": {
-          "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/CUADRADO_INSTAGRAM_BUENO.png",
-              "alignment": "center center",
-              "slide_title": "¡Aprende con nosotros!",
-              "subheading": "",
-              "button_label": "+info academia!",
-              "button_link": "shopify:\/\/pages\/academia"
-            }
-          },
-          "005f4001-262a-47e0-8336-5fcbc7147cee": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
-              "alignment": "left top",
-              "slide_title": "1ª TIENDA DE ESPAÑA \"SNEAKER CUSTOM\"",
-              "subheading": "Carrer Torrent de les flors 75, Barcelona",
-              "button_label": "VISÍTANOS",
-              "button_link": "shopify:\/\/pages\/inaguracion"
-            }
-          },
-          "162705625279f3ce6a-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
-              "alignment": "right center",
-              "slide_title": "DROP 2\/06  - \"Un Verano Sin Ti\"",
-              "subheading": "Adidas Forum Low - Edición limitada \"23\"",
-              "button_label": "¡Consíguela!",
-              "button_link": "shopify:\/\/products\/pre-order-adidas-forum-low-84-un-verano-sin-ti"
-            }
-          },
-          "162705625279f3ce6a-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/P1090446.jpg",
-              "alignment": "center center",
-              "slide_title": "Bienvenid@ a la #familiaM7K",
-              "subheading": "\"MÁS QUE UNA MARCA LA #FAMILIAM7K\"",
-              "button_label": "@M7K-SNEAKER.CUSTOM",
-              "button_link": "https:\/\/www.instagram.com\/m7k_sneaker.custom\/"
-            }
-          },
-          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/banner_dj_nano.png",
-              "alignment": "center top",
-              "slide_title": "Todas nuestras obras están hechas a mano.",
-              "subheading": "#HANDMADE #MADEWITHLOVE",
-              "button_label": "NUESTRO TRABAJO",
-              "button_link": "shopify:\/\/collections\/all"
-            }
-          },
-          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/P1100858.jpg",
-              "alignment": "center bottom",
-              "slide_title": "",
-              "subheading": "\"SPREAD YOUR WING\"",
-              "button_label": "HAZTE CON ELLA!",
-              "button_link": "shopify:\/\/collections\/spread-your-wings-skyersco-x-m7k"
-            }
-          }
-        },
-        "block_order": [
-          "d75d0052-b18e-4c1c-8c0e-88d079d56edd",
-          "005f4001-262a-47e0-8336-5fcbc7147cee",
-          "162705625279f3ce6a-1",
-          "162705625279f3ce6a-0",
-          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
-          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8"
-        ],
-        "settings": {
-          "slideshow_height": "small",
-          "text_size": "medium",
-          "text_alignment": "center center",
-          "show_overlay": true,
-          "autorotate": true,
-          "autorotate_speed": 5
-        }
-      },
       "16270562931af9adff": {
         "type": "video",
         "disabled": true,
@@ -699,6 +611,96 @@
         ],
         "settings": {
           "title": "Testimonios"
+        }
+      },
+      "162705625279f3ce6a": {
+        "type": "slideshow",
+        "disabled": true,
+        "blocks": {
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CUADRADO_INSTAGRAM_BUENO.png",
+              "alignment": "center center",
+              "slide_title": "¡Aprende con nosotros!",
+              "subheading": "",
+              "button_label": "+info academia!",
+              "button_link": "shopify:\/\/pages\/academia"
+            }
+          },
+          "005f4001-262a-47e0-8336-5fcbc7147cee": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
+              "alignment": "left top",
+              "slide_title": "1ª TIENDA DE ESPAÑA \"SNEAKER CUSTOM\"",
+              "subheading": "Carrer Torrent de les flors 75, Barcelona",
+              "button_label": "VISÍTANOS",
+              "button_link": "shopify:\/\/pages\/inaguracion"
+            }
+          },
+          "162705625279f3ce6a-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
+              "alignment": "right center",
+              "slide_title": "DROP 2\/06  - \"Un Verano Sin Ti\"",
+              "subheading": "Adidas Forum Low - Edición limitada \"23\"",
+              "button_label": "¡Consíguela!",
+              "button_link": "shopify:\/\/products\/pre-order-adidas-forum-low-84-un-verano-sin-ti"
+            }
+          },
+          "162705625279f3ce6a-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/P1090446.jpg",
+              "alignment": "center center",
+              "slide_title": "Bienvenid@ a la #familiaM7K",
+              "subheading": "\"MÁS QUE UNA MARCA LA #FAMILIAM7K\"",
+              "button_label": "@M7K-SNEAKER.CUSTOM",
+              "button_link": "https:\/\/www.instagram.com\/m7k_sneaker.custom\/"
+            }
+          },
+          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner_dj_nano.png",
+              "alignment": "center top",
+              "slide_title": "Todas nuestras obras están hechas a mano.",
+              "subheading": "#HANDMADE #MADEWITHLOVE",
+              "button_label": "NUESTRO TRABAJO",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/P1100858.jpg",
+              "alignment": "center bottom",
+              "slide_title": "",
+              "subheading": "\"SPREAD YOUR WING\"",
+              "button_label": "HAZTE CON ELLA!",
+              "button_link": "shopify:\/\/collections\/spread-your-wings-skyersco-x-m7k"
+            }
+          }
+        },
+        "block_order": [
+          "d75d0052-b18e-4c1c-8c0e-88d079d56edd",
+          "005f4001-262a-47e0-8336-5fcbc7147cee",
+          "162705625279f3ce6a-1",
+          "162705625279f3ce6a-0",
+          "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6",
+          "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8"
+        ],
+        "settings": {
+          "slideshow_height": "small",
+          "text_size": "medium",
+          "text_alignment": "center center",
+          "show_overlay": true,
+          "autorotate": true,
+          "autorotate_speed": 5
         }
       }
     },
