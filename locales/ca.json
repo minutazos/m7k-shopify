@@ -219,5 +219,25 @@
     "footer": {
       "social_platform": "{{ name }} en {{ platform }}"
     }
+  },
+  "products": {
+    "product": {
+      "regular_price": "Preu habitual",
+      "sold_out": "Esgotat",
+      "unavailable": "No disponible",
+      "availability": "Disponibilitat",
+      "on_sale": "Promoció",
+      "from_lowest_price_html": "de {{ lowest_price }}",
+      "sale_price": "Preu de venta",
+      "quantity": "Quantitat",
+      "add_to_cart": "Afegir a la cistella",
+      "loader_label": "Afegint el producte a la cistella de la compra",
+      "back_to_collection": "Tornar a {{ title }}",
+      "vendor": "Proveedor",
+      "quantity_minimum_message": "La quantitat ha de ser 1 o més",
+      "include_taxes": "Impost inclòs.",
+      "shipping_policy_html": "Les despeses d'enviament es calculen a la pantalla de pagaments.",
+      "unit_price_label": "Preu unitari"
+    }
   }
 }
