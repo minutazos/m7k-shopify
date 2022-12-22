@@ -195,5 +195,29 @@
       "add_to_apple_wallet": "Afegir a Apple Wallet",
       "qr_image_alt": "Codi QR - escanejar per bescanviar la targeta de regal"
     }
+  },
+  "layout": {
+    "navigation": {
+      "search": "Buscar",
+      "expand": "Expandir",
+      "collapse": "Contraure",
+      "menu": "Menú"
+    },
+    "cart": {
+      "title": "Cistella",
+      "items_count": {
+        "one": "Artícle",
+        "other": "Artícles"
+      }
+    },
+    "customer": {
+      "account": "Compte",
+      "log_out": "Tancar sessió",
+      "log_in": "Ingresar",
+      "create_account": "Crear compte"
+    },
+    "footer": {
+      "social_platform": "{{ name }} en {{ platform }}"
+    }
   }
 }
