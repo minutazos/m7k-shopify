@@ -96,7 +96,7 @@
         "settings": {
           "title": "Sneakers - by EME creations",
           "collection": "sneakers-by-m7k",
-          "grid": 5,
+          "grid": 3,
           "rows": 1,
           "show_vendor": false,
           "show_view_all": false
@@ -367,18 +367,6 @@
           "show_view_all": false
         }
       },
-      "1637844879c45b1d19": {
-        "type": "feature-row",
-        "disabled": true,
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Copia_de_20_2.png",
-          "layout": "left",
-          "title": "REBAJAS 20%  EN TODA LA WEB",
-          "text": "<p>Como much@s nos habéis pedido unas ofertitas este año, os hemos preparado un descuento especial para este día. Queremos celebrar los 2 años de nuestra marca con un <strong>20% de descuento en toda la Web<\/strong>!<\/p>",
-          "button_label": "¿Cómo tener la oferta?",
-          "button_link": "shopify:\/\/pages\/black-friday-20-for-you-toda-la-web"
-        }
-      },
       "16378471705da657b6": {
         "type": "featured-blog",
         "settings": {
@@ -443,12 +431,14 @@
           },
           "16511629120258179f-1": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "camisetas-basik-by-m7k"
             }
           },
           "16511629120258179f-2": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "accesorios-by-m7k"
             }
@@ -503,9 +493,17 @@
           },
           "1651178877d5aba558-3": {
             "type": "logo_image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Con_Ojos_y_sin_fecha-10_5f373bc5-ba64-48d9-9443-5a4427d1f3ff.png",
               "link": "https:\/\/m7ksneakercustom.com\/"
+            }
+          },
+          "4eee2e99-cf52-4bcc-abad-44d98aa41565": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-12-22_at_22.30.24.jpg",
+              "link": ""
             }
           }
         },
@@ -513,7 +511,8 @@
           "1651178877d5aba558-0",
           "1651178877d5aba558-1",
           "1651178877d5aba558-2",
-          "1651178877d5aba558-3"
+          "1651178877d5aba558-3",
+          "4eee2e99-cf52-4bcc-abad-44d98aa41565"
         ],
         "settings": {
           "title": "Proveedores oficiales"
@@ -631,6 +630,7 @@
           },
           "005f4001-262a-47e0-8336-5fcbc7147cee": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
               "alignment": "left top",
@@ -642,6 +642,7 @@
           },
           "162705625279f3ce6a-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_9382.jpg",
               "alignment": "right center",
@@ -653,6 +654,7 @@
           },
           "162705625279f3ce6a-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/P1090446.jpg",
               "alignment": "center center",
@@ -664,6 +666,7 @@
           },
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/banner_dj_nano.png",
               "alignment": "center top",
@@ -675,7 +678,6 @@
           },
           "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/P1100858.jpg",
               "alignment": "center bottom",
@@ -711,7 +713,6 @@
       "1606215216577814cf",
       "1629661186a4896892",
       "16511629120258179f",
-      "1637844879c45b1d19",
       "163519134556be83d4",
       "16504813776bf76406",
       "1651177181eee16973",
