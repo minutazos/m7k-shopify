@@ -242,5 +242,37 @@
       "view_in_space": "Veure en el teu espai",
       "view_in_space_label": "Veure al teu espai, carrega l'article a la finestra de realitat augmentada"
     }
+  },
+  "sections": {
+    "header": {
+      "announcement_bar_label": "Anunci"
+    },
+    "slideshow": {
+      "next_slide": "Següent diapositiva",
+      "previous_slide": "Diapositiva anterior",
+      "pause_slideshow": "Pausar la presentació",
+      "rotate_slideshow": "Reproduir la presentació",
+      "load_slide": "Cargar diapositiva {{ slide_number }}",
+      "navigation_instructions": "Utilitzeu les fletxes esquerra\/dreta per navegar per la presentació o feu lliscar cap a l'esquerra\/dreta si utilitzeu un dispositiu mòbil"
+    },
+    "featured_product": {
+      "title": "Producte destacat",
+      "gallery_thumbnail_alt": "Carregar imatge al visor de la galeria, {{ imageAlt }}",
+      "video_thumbnail_alt": "Carregar i reproduir el vídeo al visor de la galeria, {{ imageAlt }}",
+      "model_thumbnail_alt": "Carregar model 3D al visor de la galeria, {{ imageAlt }}"
+    },
+    "map": {
+      "address_error": "No es pot trobar aquesta adreça",
+      "address_no_results": "No hi han resultats per a aquesta adreça",
+      "address_query_limit_html": "S'ha excedit el límit d'ús de l'API de Google. Considereu la possibilitat d'actualitzar a un Pla Premium.",
+      "auth_error_html": "Hi ha hagut un problema d'autenticació amb el vostre compte de Google Maps.",
+      "section_heading": "Ubicació"
+    },
+    "video": {
+      "play": "Reproduir el vídeo {{ video_title }}",
+      "pause": "Pausar el vídeo {{ video_title }}",
+      "resume": "Reprendre el vídeo {{ vídeo_title }}",
+      "close": "Tancar el vídeo {{ video_title }}"
+    }
   }
 }
