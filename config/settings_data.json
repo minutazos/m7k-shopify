@@ -29,9 +29,9 @@
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
-          "message_text": "¡Ven a inaugurar el local!",
+          "message_text": "Vina a inaugurar el local!",
           "message_link": "",
-          "color_bg": "#3a3a3a",
+          "color_bg": "#b31fb7",
           "color_text": "#ffffff"
         }
       },
