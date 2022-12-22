@@ -76,13 +76,36 @@
   },
   "general": {
     "accessibility": {
-      "skip_to_content": "Anar directamente al contingut",
+      "skip_to_content": "Anar directament al contingut",
       "close_modal": "Tancar",
       "link_messages": {
         "new_window": "Obre en una finestra nova.",
         "external": "Obre lloc extern.",
         "new_window_and_external": "Obre lloc extern extern en una finestra nova."
-      }
+      },
+      "refresh_page": "Quan seleccioneu una opció, s'actualitza tota la pàgina.",
+      "selection_help": "Premeu la tecla despai i després les tecles de fletxa per seleccionar una opció.",
+      "unit_price_separator": "per",
+      "error": "Error"
+    },
+    "meta": {
+      "tags": "Etiquetat \"{{ tags }}\"",
+      "page": "Pàgina {{ page }}"
+    },
+    "404": {
+      "title": "404 Pàgina no trobada",
+      "subtext": "La pàgina que ha sol.licitat no existeix.",
+      "link": "Continuar la compra"
+    },
+    "pagination": {
+      "previous": "Pàgina anterior",
+      "next": "Pàgina següent",
+      "current_page": "Pàgina {{ current }} de {{ total }}"
+    },
+    "password_page": {
+      "opening_soon": "Apertura próximament",
+      "login_form_heading": "Entrar a la botiga utilitzant contrasenya",
+      "login_form_password_label": "Contrasenya"
     }
   },
   "homepage": {
