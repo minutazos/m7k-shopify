@@ -1235,7 +1235,10 @@
           "session_identifier_not_unique_error": "S'ha produït un error amb la comanda. Intenta tornar a processar el pagament.",
           "line_item_limit_reached": "S'ha aconseguit la quantitat màxima de línies d'article."
         },
-        "full_price": "Preu regular:"
+        "full_price": "Preu regular:",
+        "error_page_title": "Error",
+        "continue_button_label": "Continuar",
+        "print_policies_link_label": "Imprimir"
       },
       "contact": {
         "title": "Informació",
@@ -1470,7 +1473,8 @@
     },
     "sentence": {
       "two_words_connector": "i",
-      "last_word_connector": ", i"
+      "last_word_connector": ", i",
+      "words_connector": ","
     },
     "cart": {
       "discounts_with_count": "s'han aplicat %{count} descomptes"
