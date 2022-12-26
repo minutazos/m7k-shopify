@@ -295,5 +295,245 @@
       "post_success": "Gracies per contactar-nos. El respondrem el més aviat possible",
       "error_heading": "Si us plau, ajusti el següent:"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "order_summary": {
+        "confirmation_number_label": "Confirmació N°%{confirmation_number}",
+        "estimated_taxes_finalization_tooltip_content": "L'import exacte dels impostos i el total definitiu es confirmaran per correu electrònic o missatge de text després de fer la comanda.",
+        "deferred_payment_info": {
+          "title": "El pagament de %{amount_due} venç el %{due_at}",
+          "description_html": "Si teniu alguna pregunta sobre la vostra comanda, %{contact_us}.",
+          "paid_today": "Total pagat avui",
+          "due_on_fulfillment_title": "El pagament de %{amount_due} s'ha de completar en preparar la comanda"
+        },
+        "percent_off_shipping": "%{percent} % de descompte en l'enviament",
+        "amount_off_shipping": "%{amount} de descompte en l'enviament",
+        "payment_terms_totals": {
+          "due_today": "Total a pagar avui",
+          "due_later_checkout_to_draft": "Total a pagar més endavant",
+          "due_on_fulfillment": "Total a pagar en preparar la comanda"
+        },
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> no s'ha pogut utilitzar amb els descomptes existents. Ja tens una millor combinació.",
+        "maximum_discount_code_limit_reached": "Vas aconseguir la quantitat màxima de codis de descompte. Treu un codi existent per poder utilitzar <strong style=\"text-transform:uppercase\">%{code}<\/strong> .",
+        "order_total_label": "Total de la comanda",
+        "discount_code_application_failed": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> no funciona en aquests moments. Contacta'ns per obtenir ajuda."
+      },
+      "shipping": {
+        "title": "Enviaments",
+        "shipping_method_title": "Enviaments",
+        "waiting_on_rate_notice": "Obtenint les tarifes d'enviament disponibles...",
+        "waiting_on_pickup_location_notice": "Obtenció de les sucursals per retirar disponibles...",
+        "no_rates_for_cart_or_destination_notice": "No hi ha mètodes d'enviament disponibles per a la cistella o adreça",
+        "no_pickup_location_notice": "Almenys un dels teus productes no està disponible per ser retirat",
+        "no_rates_for_country_notice": "No s'han trobat tarifes d'enviament per a aquesta adreça.",
+        "no_rates_contact_notice": "Poseu-vos en contacte amb nosaltres per obtenir més informació",
+        "cheapest_rate_label": "Més econòmic",
+        "please_enter_your_shipping_information_notice": "Introduïu la vostra informació d'enviament.",
+        "estimated_delivery_date": {
+          "other": "%{count} dies hàbils",
+          "many": "%{count} dies hàbils"
+        },
+        "estimated_delivery_date_range": "%{minimum} a %{maximum} dies hàbils",
+        "shipping_line_phone_label": "Número de telèfon mòbil (obligatori)",
+        "shipping_line_phone": "El vostre servei de missatgeria i paqueteria pot utilitzar aquest número per contactar-vos.",
+        "other_method": {
+          "zero": "No hi ha altres mètodes d'enviament disponibles",
+          "one": "%{count} mètode diferent disponible per",
+          "other": "Altres %{count} mètodes d'enviament disponibles a partir de",
+          "many": "Altres %{count} mètodes d'enviament disponibles a partir de"
+        },
+        "shipping_rate_discounted_amount": "Abans: %{original_amount}. Ara: %{amount}",
+        "shipping_line_delivery_phone": "És possible que us poseu en contacte amb tu amb informació actualitzada sobre el vostre lliurament.",
+        "optional_shipping_line_delivery_instructions_label": "Instruccions de lliurament (opcional)",
+        "shipping_line_delivery_phone_label": "Número de telèfon",
+        "shipping_line_delivery_instructions": "Introdueix les dades necessàries com a codis de portes o instruccions per al lliurament.",
+        "local_delivery": "Lliurament local",
+        "subscription_shipping": "Enviament per subscripció",
+        "shipping_method_subscription_group_title": "Subscripció",
+        "subscription_delivery_description": {
+          "prepaid_delivery_frequency": {
+            "one": "per a %{count} lliurament",
+            "other": "per a %{count} lliuraments",
+            "many": "per a %{count} lliuraments"
+          },
+          "subscription_delivery_frequency": {
+            "day": {
+              "other": "cada %{count} dies",
+              "many": "cada %{count} dies"
+            },
+            "week": {
+              "one": "cada setmana",
+              "other": "cada %{count} setmanes",
+              "many": "cada %{count} setmanes"
+            },
+            "month": {
+              "other": "cada %{count} mesos",
+              "many": "cada %{count} mesos"
+            },
+            "year": {
+              "one": "cada any",
+              "other": "cada %{count} anys",
+              "many": "cada %{count} anys"
+            }
+          },
+          "multiple_subscriptions_shipping_price_label": "%{shipping_price} per entrega",
+          "prepaid_shipping_price_label": "%{shipping_price} per entrega x %{delivery_interval_count}",
+          "initial_order_discounted": "Cost del primer enviament %{discounted_shipping_cost}, després %{frequency_description}",
+          "prepaid_initial_order_discounted": "Cost del primer enviament %{discounted_shipping_price} %{prepaid_delivery_frequency}",
+          "prepaid_initial_order_discounted_with_per_delivery_price": "Cost del primer enviament %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery})",
+          "prepaid_initial_order_discounted_with_renewal": "Cost del primer enviament %{discounted_shipping_price} %{prepaid_delivery_frequency}, després %{shipping_price} %{billing_cycle}",
+          "prepaid_initial_order_discounted_with_per_delivery_price_and_renewal": "Cost del primer enviament %{discounted_shipping_price} %{prepaid_delivery_frequency} (%{discounted_cost_per_delivery}), després %{shipping_price} %{billing_cycle}",
+          "shipping_price_included": "Inclòs",
+          "recurring_order_shipping_price": "seguit de %{recurring_order_shipping_price}",
+          "first_order_shipping_price_included": "Primera comanda inclosa, seguida de %{recurring_order_shipping_price}",
+          "first_order_different_shipping_price": "%{first_order_shipping_price} (%{per_delivery_price} per lliurament), seguit de %{recurring_order_shipping_price}",
+          "first_n_order_free": {
+            "one": "Primera comanda gratis",
+            "other": "Primers %{count} comandes gratuïtes",
+            "many": "Primers %{count} comandes gratuïtes"
+          },
+          "free_for_first_n_order": {
+            "one": "Per a la primera comanda",
+            "other": "Per als primers comandes comandes",
+            "many": "Per als primers comandes comandes"
+          }
+        },
+        "one_time_purchase_shipping": "Enviament únic",
+        "estimated_delivery_time": "Data de lliurament estimada: %{time}",
+        "estimated_delivery_time_range": "Data de lliurament estimada: %{min_time}–%{max_time}",
+        "arrives_time": "Arriba a %{time}",
+        "arrives_time_range": "Arriba entre %{min_time}–%{max_time}",
+        "estimated_time": "Arribada prevista: %{time}",
+        "subscription_local_delivery": "Subscripció amb lliurament local",
+        "subscription_pickup": "Subscripció amb retir",
+        "delivery_today": "Lliurament al mateix dia %{time}",
+        "delivery_tomorrow": "Lliurament al dia següent %{time}",
+        "two_day_delivery": "Lliurament en dos dies a les %{time}",
+        "delivery": "Lliurament a les %{time}"
+      },
+      "payment": {
+        "amazon_payments_login_hint": "Heu d'accedir iniciant sessió a Amazon.",
+        "amazon_payments_logout": "Sortir d'Amazon Pay",
+        "amazon_payments_failed_mfa_challenge": "No s'ha pogut utilitzar el mètode de pagament seleccionat. Selecciona un mètode diferent o comunica't amb el teu banc o emissor de la targeta.",
+        "amazon_payments_abandoned_mfa_challenge": "No s'ha pogut completar el pagament. Intenta amb una forma de pagament diferent o comunica't amb el teu banc o emissor de la targeta.",
+        "amazon_payments_could_not_enqueue_authorize": "S'ha produït un error en processar el pagament. Torneu-ho a provar o utilitzeu una forma de pagament diferent.",
+        "title": "Pagament",
+        "amount_left_to_pay_label": "Pagament pendent:"
+      },
+      "thank_you": {
+        "order_updates_title": "Actualitzacions de la comanda",
+        "order_updates_description_html": "S'ha enviat una confirmació a %{customer_contact}",
+        "order_updates_current_step_prefix": "Velocitat actual:",
+        "order_updates_past_step_prefix": "Velocitat anterior:",
+        "order_updates_upcoming_step_prefix": "Propera velocitat:",
+        "in_transit": "En camí",
+        "in_transit_title": "La teva comanda està en camí",
+        "in_transit_description": "Rebràs notificacions sobre el seu progrés.",
+        "in_transit_description_days": "Hauries de rebre la teva comanda en els propers %{number} dies.",
+        "in_transit_description_today": "Hauries de rebre la teva comanda avui.",
+        "in_transit_description_tomorrow": "Hauries de rebre la teva comanda en un termini d'un dia.",
+        "no_tracking_number": "No hi ha número de seguiment per a aquesta comanda.",
+        "out_for_delivery": "Enviat al destinatari",
+        "out_for_delivery_title": "La teva comanda està en procés de lliurament",
+        "out_for_delivery_description_html": "La teva comanda està en camí i hauria d'arribar-hi avui. Si no es lliura en els propers dos dies, %{contact_us}.",
+        "attempted_delivery": "Intent de lliurament",
+        "attempted_delivery_title": "Es va intentar lliurar la teva comanda",
+        "attempted_delivery_description_html": "Es va intentar lliurar la teva comanda sense èxit. %{contact_us} per programar una altra entrega.",
+        "delivered": "Lliurat",
+        "delivered_title": "La teva comanda s'ha lliurat",
+        "delivered_description_html": "La teva comanda s'ha lliurat a l'adreça que vas indicar. Si encara no l'heu rebut o si teniu cap altre problema, %{contact_us}.",
+        "contact_us": "Posa't en contacte amb nosaltres",
+        "contact_us_lowercase": "Posa't en contacte amb nosaltres",
+        "contact_us_html": "Necessites ajuda? %{contact_us}",
+        "updated_time": "Actualitzat fa %{time_ago}",
+        "failure": "No lliurat",
+        "failed_title": "No s'ha pogut lliurar la comanda",
+        "failed_contact_merchant": "Poseu-vos en contacte amb %{company} per organitzar el lliurament.",
+        "failed_contact_merchant_no_company": "Posa't en contacte amb nosaltres per organitzar el lliurament.",
+        "non_shippable_title": "La teva comanda està completa",
+        "login_title": "pot ajudar-te a sessió per veure tots els detalls de la comanda",
+        "login_description": "Pots trobar el teu número de comanda a la factura que va rebre mitjançant correu electrònic.",
+        "login_description_phone": "Pots trobar el número de la teva comanda a la factura que vas rebre mitjançant un missatge de text.",
+        "login_not_customer_html": "No %{name}? Podeu %{link}",
+        "login_reorder_link_text": {
+          "one": "comprar aquest producte també",
+          "other": "comprar aquests productes també",
+          "many": "comprar aquests productes també"
+        },
+        "customer_information_hidden_fields_message": "pot ajudar-te a la sessió per veure tota la informació del client.",
+        "cancelled_title": "La teva comanda ha estat cancel·lada",
+        "cancelled_description": "La teva comanda va ser cancel·lada el %{date}. Posa't en contacte amb nosaltres si tens alguna pregunta.",
+        "order_number_label": "Número de comanda",
+        "customer_validation_error": "Introduïu un correu electrònic o un número de comanda vàlid.",
+        "customer_validation_error_phone": "Introduïu un número de telèfon o de comanda vàlid.",
+        "login": "Inicia sessió",
+        "unfulfilled_items_title": "En preparació per a l'enviament",
+        "unfulfilled_items_description": "Actualment estem preparant aquests articles per a l'enviament.",
+        "marker": {
+          "current": "Ubicació actual de l'enviament",
+          "shipping": "Direcció d'enviament"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Articles en aquest enviament",
+          "unfulfilled_table_title": "Articles en preparació per a enviament",
+          "product_image_label": "Imatge del producte",
+          "description_label": "Descripció",
+          "quantity_label": "Quantitat"
+        },
+        "opt_in_message_html": "La teva informació va ser guardada amb èxit a %{shopify_pay}",
+        "order_updates_description_missing": "No esteu rebent actualitzacions de l'estatus d'enviament.",
+        "order_updates_subscribe_to_email_notifications": "Rep actualitzacions de l'estat del teu enviament",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Rebeu actualitzacions d'enviaments per correu electrònic o missatge de text.",
+        "order_updates_subscribe_to_phone_notifications": "Rep actualitzacions d'enviaments per missatge de text.",
+        "track_shipment": "Rastrejar enviament",
+        "shopify_pay": {
+          "order_completed_html": "Comanda completada amb %{shopify_pay}",
+          "learn_more_label": "Llegir més sobre Shop Pay"
+        },
+        "order_status_confirmed_order_with_email_pick_up": "Rebràs un correu electrònic quan la teva comanda estigui preparada per ser retirada.",
+        "order_status_confirmed_order_with_phone_pick_up": "Rebràs un missatge de text quan la teva comanda estigui preparada per ser retirada.",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "Rebràs un correu electrònic i un missatge de text quan la teva comanda estigui preparada per ser retirada.",
+        "pick_up_in_store_marker": {
+          "current": "Ubicació actual de l'enviament",
+          "shipping": "Lloc de retir"
+        },
+        "thank_you_confirmed_order_with_email_pick_up": "Rebràs un correu electrònic quan la teva comanda estigui preparada per ser retirada.",
+        "thank_you_confirmed_order_with_phone_pick_up": "Rebràs un missatge de text quan la teva comanda estigui preparada per retirar.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "Rebràs un correu electrònic quan la teva comanda estigui preparada per ser retirada.",
+        "ready_for_pickup_title": "La teva comanda està a punt per ser retirada",
+        "ready_for_pickup_description": "La teva comanda està llesta per ser retirada. Si us plau, porta la teva confirmació de comanda quan vinguis a retirar-ho.",
+        "picked_up_title": "La teva comanda ha estat retirada",
+        "picked_up_description_html": "La teva comanda es va recollir a %{location_name} al %{date}.",
+        "other_options": "Altres opcions",
+        "shop_phone_description": "Rebràs un missatge de text amb un enllaç a l'aplicació Shop per ajudar-te a fer el seguiment de la teva comanda.",
+        "ready_for_delivery_title": "La teva comanda està llesta per al lliurament.",
+        "ready_for_delivery_description": "Ja hem preparat la teva comanda.",
+        "order_status_confirmed_order_local": "Estem preparant la teva comanda per al lliurament.",
+        "delivery_information_label": "Informació de lliurament:",
+        "gift_card_sent_confirmation": "Targetes de regal enviades",
+        "out_for_delivery_local_title": "La teva comanda està en procés de lliurament",
+        "out_for_delivery_local_description_html": "La teva comanda encara ha d'arribar.",
+        "delivered_local_title": "La teva comanda s'ha lliurat",
+        "delivered_local_description_html": "No has rebut la teva comanda? %{let_us_know}.",
+        "let_us_know": "Informa'ns",
+        "qr_code": {
+          "title": "Fes el seguiment des del telèfon",
+          "subtitle": "Escaneja el codi amb la càmera del telèfon per fer el seguiment amb Shop.",
+          "send_link_to_phone": "O envia un enllaç al teu telèfon"
+        },
+        "gift_card_confirmation_by_text": "Les targetes de regal s'envien per missatge de text. Si no has rebut la teva, intenta enviar-los novament o posa't en contacte amb nosaltres.",
+        "gift_card_confirmation_by_email": "Les targetes de regal s'envien per correu electrònic. Si no has rebut la teva, intenta enviar-los novament o posa't en contacte amb nosaltres.",
+        "gift_card_title": "Targetes de regal",
+        "resend_gift_cards": "Reenviar targetes de regal",
+        "attempted_delivery_local_title": "No es va poder rebre el lliurament",
+        "attempted_delivery_local_description_html": "No vam poder lliurar la teva comanda. Per reprogramar el lliurament, %{contact_us}.",
+        "thank_you_title_payment": "El teu pagament està confirmat",
+        "thank_you_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}.",
+        "thank_you_confirmed_order_with_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
+        "thank_you_confirmed_order_with_email_and_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
+        "order_status_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}."
+      }
+    }
   }
 }
