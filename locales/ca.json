@@ -632,7 +632,162 @@
         "reduced_with_quantity_label": "Només queden %{quantity_available}",
         "remove_from_cart_button_label": "Retirar del carret",
         "go_back_to_cart_button_label": "Tornar a la cistella"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "one": "Comprar %{product_name} i %{count} article més",
+          "other": "Comprar %{product_name} i %{count} articles més",
+          "many": "Comprar %{product_name} i %{count} articles més"
+        }
+      },
+      "localized_fields": {
+        "additional_information": {
+          "title": "Informació addicional"
+        }
+      },
+      "post_purchase": {
+        "page_title": "Després de la compra",
+        "title": "Després de la compra",
+        "escape_confirmation": "Has pagat la teva comanda.",
+        "escape_action": "Veure confirmació de comanda ›",
+        "components": {
+          "close": "Tancar",
+          "expand": "Veure més",
+          "processing": "Processant..."
+        }
+      },
+      "change_country": {
+        "cart_updated_based_on_country": "La teva cistella s'ha actualitzat segons el país de destinació."
+      },
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "Primer pagament %{total_price}",
+            "other": "Primers %{count} pagaments %{total_price} cadascun",
+            "many": "Primers %{count} pagaments %{total_price} cadascun"
+          },
+          "following_cycles": ", després %{total_price} cada %{interval}"
+        },
+        "recurring_total_intervals": {
+          "day": {
+            "other": "%{count} dies",
+            "many": "%{count} dies"
+          },
+          "week": {
+            "one": "setmana",
+            "other": "%{count} setmanes",
+            "many": "%{count} setmanes"
+          },
+          "month": {
+            "other": "%{count} mesos",
+            "many": "%{count} mesos"
+          },
+          "year": {
+            "one": "any",
+            "other": "%{count} anys",
+            "many": "%{count} anys"
+          }
+        },
+        "recurring_totals_with_initial_order_shipping_discount": "Primer pagament %{total_price_with_discount}, després %{recurring_total}",
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": ", després %{count} pagament de %{total_price}",
+            "other": ", després %{count} pagaments de %{total_price} cadascun",
+            "many": ", després %{count} pagaments de %{total_price} cadascun"
+          }
+        }
+      },
+      "customer_payment_methods": {
+        "page_title": "Formes de pagament",
+        "title": "Formes de pagament",
+        "update_card_button_label": "Actualitzar targeta",
+        "delete_customer_mandate": {
+          "generic_error": "S'ha produït un error en processar la sol·licitud.",
+          "success_message": "La vostra forma de pagament s'ha eliminat correctament."
+        }
+      },
+      "mor_policies": {
+        "terms_and_conditions": "Termes i condicions del comerciant oficial",
+        "privacy_policy": "Política de privadesa del comerciant oficial"
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "El producte no està disponible",
+          "other": "Els productes no estan disponibles",
+          "many": "Els productes no estan disponibles"
+        },
+        "products_not_available": {
+          "one": "Aquest producte s'eliminarà de la cistella perquè no està disponible al vostre país o regió.",
+          "other": "Aquests productes s'eliminaran de la cistella perquè no estan disponibles al teu país o regió.",
+          "many": "Aquests productes s'eliminaran de la cistella perquè no estan disponibles al teu país o regió."
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "Aquest producte no està disponible al vostre país o regió.",
+          "other": "Aquests productes no estan disponibles al vostre país o regió.",
+          "many": "Aquests productes no estan disponibles al vostre país o regió."
+        }
+      },
+      "change_cart_localization": {
+        "verify_shipping_address": "El teu país o regió es va modificar. Introduïu la vostra adreça d'enviament per continuar amb el pagament."
       }
+    },
+    "pagination": {
+      "next": "Següent"
+    },
+    "links": {
+      "learn_more": "Llegir més"
+    },
+    "feed": {
+      "more": "Més"
+    },
+    "attributes": {
+      "email": "correu electrònic",
+      "password": "contrasenya",
+      "password_confirmation": "la confirmació de la contrasenya",
+      "first_name": "Nom",
+      "last_name": "Cognom",
+      "body": "missatge",
+      "signature": "Direcció"
+    },
+    "addresses": {
+      "zip_code": "Codi postal",
+      "postal_code": "Codi postal",
+      "postcode": "Codi postal",
+      "pincode": "Codi postal",
+      "region": "Regió",
+      "state": "Estat",
+      "state_and_territory": "Estat\/Territori",
+      "county": "Comtat",
+      "emirate": "Emirat",
+      "confirm": "Estàs segur que vols eliminar aquesta adreça?"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Característiques",
+        "best_selling": "Més venuts",
+        "az": "Alfabèticament, AZ",
+        "za": "Alfabèticament, ZA",
+        "price_ascending": "Preu, menor a major",
+        "price_descending": "Preu, major a menor",
+        "date_ascending": "Data: antic(a) a recent",
+        "date_descending": "Data: recent a antic(a)"
+      }
+    },
+    "errors": {
+      "blank": "no pot estar en blanc",
+      "credit_card_session_expired": "L'autorització de la targeta de crèdit ha caducat. Si us plau, introdueix la teva informació de pagament una vegada més. No s'ha efectuat el càrrec a la targeta.",
+      "empty": "no pot quedar buit",
+      "invalid_email": "Ha de ser una adreça de correu electrònic vàlida",
+      "discount_disabled": "Aquest descompte s'ha desactivat",
+      "discount_expired": "Aquest descompte ja no és vàlid",
+      "discount_limit_reached": "Aquest descompte ha arribat al límit del seu ús",
+      "discount_not_found": "No ha estat possible trobar un descompte vàlid que coincideixi amb el codi introduït",
+      "customer_already_used_once_per_customer_discount_notice": "Aquest descompte ha arribat al límit del seu ús",
+      "gift_card_already_applied": "El codi ja s'ha aplicat a la comanda",
+      "gift_card_code_invalid": "Codi no vàlid",
+      "gift_card_currency_mismatch": "La teva targeta de regal és a %{gift_card_currency}. Contacta amb nosaltres perquè tornem a emetre-la a %{checkout_currency}.",
+      "gift_card_depleted": "No queden fons disponibles en aquesta targeta de regal",
+      "gift_card_disabled": "La targeta de regal està desactivada"
     }
   },
   "customer_accounts": {
