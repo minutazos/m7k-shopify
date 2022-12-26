@@ -1289,7 +1289,11 @@
         "region_none": "No s'ha seleccionat cap",
         "civic_number_warning": "Afegeix un número de domicili si el tens",
         "company_label": "Empresa",
-        "optional_company_label": "Empresa (opcional)"
+        "optional_company_label": "Empresa (opcional)",
+        "prefecture_label": "Prefectura",
+        "prefecture_placeholder": "Prefectura",
+        "governorate_label": "Província",
+        "governorate_placeholder": "Província"
       }
     },
     "pagination": {
