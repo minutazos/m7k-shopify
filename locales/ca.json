@@ -507,7 +507,38 @@
           "order_contains_subscriptions": "Subscripció",
           "order_contains_fixed_selling_plans": "Pot ser que el total no inclogui impostos, enviament, càrrecs diferits i alguns descomptes. Continua a la pantalla de pagament per a la suma que venç avui."
         },
-        "purchase_options_agreement_label_html": "Entenc que un o més articles del meu carretó són una compra diferida o recurrent. En continuar, accepto la\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%%7Bpolicy_href%7D\">política de cancel·lació<\/a>\ni autoritzo a realitzar càrrecs en la meva forma de pagament segons els preus, la freqüència i les dates indicades en aquesta pàgina fins que es prepari el meu\ndemanat o ho cancel·leu, si està permès.\n"
+        "purchase_options_agreement_label_html": "Entenc que un o més articles del meu carretó són una compra diferida o recurrent. En continuar, accepto la\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%%7Bpolicy_href%7D\">política de cancel·lació<\/a>\ni autoritzo a realitzar càrrecs en la meva forma de pagament segons els preus, la freqüència i les dates indicades en aquesta pàgina fins que es prepari el meu\ndemanat o ho cancel·leu, si està permès.\n",
+        "apple_pay_payment_error": "No s'ha pogut completar el pagament. Intenta-ho de nou o utilitza una altra forma de pagament.",
+        "subscription_card_update_agreement_label": "Quan canvieu la forma de pagament s'actualitzarà la vostra subscripció i els pagaments recurrents en el futur.",
+        "card_security_vault_notice": "Necessitem la teva informació per a futurs pagaments. Totes les transaccions són segures i estan encriptades.",
+        "taxes_not_included": "Impostos no inclosos",
+        "no_taxes_banner_content": "No es cobraran impostos en aquesta comanda. Un cop hagis cobrat el pagament, ja no es podran afegir impostos.",
+        "card_update_label": "Actualitzar targeta",
+        "paypal": {
+          "connect": "Fes clic per connectar el teu compte de PayPal"
+        },
+        "card_expired": "Vençuda",
+        "card_verification_confirm": "Per a finalitats de verificació, introduïu el codi de seguretat de la vostra targeta.",
+        "different_credit_card_label": "Utilitza una targeta de crèdit diferent",
+        "delete_customer_mandate_modal_cancel": "Cancel·la",
+        "apple": {
+          "connect": "Fes clic per connectar el teu compte d'Apple Pay",
+          "not_available": "Apple Pay no està disponible en aquest navegador. Per connectar el vostre compte d'Apple Pay, haureu d'utilitzar Safari en un dispositiu Apple."
+        },
+        "account_connected": "Compte connectat.",
+        "billing_address_associated_with_mandate": "Usar una adreça associada amb una forma de pagament",
+        "billing_address_associated_with_mandate_info": "Si vols canviar la teva adreça de facturació, elimina i torna a introduir les dades de la targeta de crèdit",
+        "credit_card_vaulting_sign_in_banner_title": "Guarda la targeta de crèdit",
+        "credit_card_vaulting_sign_in_banner_info": "Inicia sessió o crea un compte per desar la targeta de crèdit per a compres futures.",
+        "credit_card_vaulting_sign_in_banner_button_label": "Inicia sessió",
+        "ftd_vault_credit_card_label": "Desar aquesta targeta de crèdit al meu compte per pagar més ràpid",
+        "delete_customer_mandate_modal_title": "Vols eliminar aquesta targeta de pagament?",
+        "delete_customer_mandate_modal_body": "Si elimines aquesta targeta, hauràs d'afegir-la novament per poder fer-la servir per pagar.",
+        "delete_customer_mandate_modal_confirm": "Eliminar targeta",
+        "google": {
+          "connect": "Fes clic per connectar amb el teu compte de Google Pay",
+          "error_authorizing": "Error en autoritzar el pagament"
+        }
       },
       "thank_you": {
         "order_updates_title": "Actualitzacions de la comanda",
@@ -1360,11 +1391,47 @@
       "order": "Comanda%{name}",
       "search": "Cerca",
       "collections": "Col·leccions",
-      "not_found": "404 No trobat"
+      "not_found": "404 No trobat",
+      "challenge": "Desafiament",
+      "checkpoint": "Punt de control",
+      "search_results": {
+        "one": "Cerca: %{count} resultat trobat per a \"%{terms}\"",
+        "other": "Cerca: %{count} resultats trobats per a \"%{terms}\"",
+        "many": "Cerca: %{count} resultats trobats per a \"%{terms}\""
+      }
     },
     "sentence": {
       "two_words_connector": "i",
       "last_word_connector": ", i"
+    },
+    "cart": {
+      "discounts_with_count": "s'han aplicat %{count} descomptes"
+    },
+    "challenge": {
+      "message": "Per continuar, indica'ns que no ets un robot.",
+      "error": "La teva resposta no va ser la correcta, si us plau intenta de nou."
+    },
+    "checkpoint": {
+      "message": "Resol el Captcha per continuar",
+      "error": "La validació de Captcha va fallar"
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "Gràcies per subscriure't a la nostra llista de distribució.",
+        "disclaimer": "Pots donar-te de baixa en qualsevol moment.",
+        "unsubscribe": "Donar-se de baixa"
+      },
+      "unsubscribed": {
+        "confirmation": "Heu cancel·lat la vostra subscripció a la nostra llista de distribució.",
+        "disclaimer": "No us enviarem més notícies de màrqueting. Podeu subscriure't novament en qualsevol moment.",
+        "preview": "Estàs revisant la vista prèvia del que veuran els clients quan es donen de baixa."
+      },
+      "open_tracking": {
+        "opt_in": {
+          "opted_in_html": "<b>T'has subscrit al seguiment de correus oberts.<\/b>",
+          "visibility": "Les taxes de correus oberts s'informaran de manera anònima. Només veurem si heu obert un correu electrònic com a part d'una taxa agregada de correus oberts."
+        }
+      }
     }
   },
   "customer_accounts": {
