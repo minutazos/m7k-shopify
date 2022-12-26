@@ -522,6 +522,7 @@
       },
       "1651190497e67b5fbc": {
         "type": "logo-bar",
+        "disabled": true,
         "blocks": {
           "1651190497e67b5fbc-0": {
             "type": "logo_image",
