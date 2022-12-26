@@ -538,7 +538,75 @@
         "google": {
           "connect": "Fes clic per connectar amb el teu compte de Google Pay",
           "error_authorizing": "Error en autoritzar el pagament"
-        }
+        },
+        "discount_button_action_label": "Aplicar codi de descompte",
+        "gift_card_code_label": "Codi de targeta de regal",
+        "supported_card_brands_more_label": "i més…",
+        "detected_card_brand": "Marca de la targeta detectada: {brand}",
+        "card_number_label": "Número de targeta",
+        "card_number_placeholder": "Número de targeta",
+        "card_pay_with": "Pagar amb:",
+        "card_security_notice": "Totes les transaccions són segures i estan encriptades.",
+        "name_on_card_label": "Nom del titular com apareix a la targeta",
+        "name_on_card_placeholder": "Nom del titular",
+        "card_expiry_label": "Data de venciment (MM\/AA)",
+        "card_expiry_placeholder": "Data de venciment (MM\/AA)",
+        "card_verification_value_label": "Codi de seguretat",
+        "card_verification_value_placeholder": "Codi de seguretat",
+        "card_expiry_date_explanation": "Data de venciment de la targeta en format: mes, mes, any, any",
+        "card_verification_value_explanation": "Codi de seguretat de 3 dígits ubicat normalment a la part posterior de la targeta. Les targetes American Express tenen un codi de 4 dígits ubicat al front.",
+        "card_verification_value_explanation_amex": "Codi de seguretat de 4 dígits a la part frontal de la targeta",
+        "card_verification_value_explanation_other": "Codi de seguretat de 3 dígits al revers de la targeta",
+        "card_start_label": "Inici (MM\/AA)",
+        "card_start_placeholder": "Inici (MM\/AA)",
+        "card_issue_number_label": "Número d'expedició",
+        "card_issue_number_placeholder": "Número d'expedició",
+        "card_change_label": "Canviar",
+        "ends_with_label": "que acaba a %{last_digits}",
+        "saved_by_payment_method": "Desat amb %{payment_method}",
+        "pay_with_payment_method": "Pagar amb %{payment_method}",
+        "same_billing_address_label": "La mateixa adreça d'enviament",
+        "different_billing_address_label": "Usar una adreça de facturació diferent",
+        "free_order_notice_html": "La teva comanda és <strong>gratuïta<\/strong> . No cal cap pagament.",
+        "express_checkout_free_order": "No se't cobrarà per una comanda gratuïta",
+        "order_covered_by_gift_cards_notice": {
+          "one": "El cost de la teva comanda està cobert per la targeta de regal.",
+          "other": "El cost de la teva comanda està cobert per les targetes de regal.",
+          "many": "El cost de la teva comanda està cobert per les targetes de regal."
+        },
+        "offsite_gateway_redirect_hint": "Després de fer clic a “%{button_label}”, seràs redirigit a %{gateway_label} per completar la teva compra de manera segura.",
+        "billing_address_title": "Adreça de facturació",
+        "billing_address_description": "Selecciona l'adreça que coincideixi amb la targeta o la forma de pagament.",
+        "billing_address_description_no_shipping_address": "Introdueix l'adreça que coincideixi amb la targeta o la forma de pagament.",
+        "no_js_credit_card_fields_redirect_hint": "Seràs redirigit per afegir la teva informació de pagament.",
+        "card_fields_container_prefix": "Quadre per al camp:",
+        "card_fields_unavailable_html": {
+          "one": "Els pagaments amb targeta de dèbit i crèdit no estan disponibles en aquest moment.<br> <a href=\"%%7Bcurrent_url%7D\">Actualitzeu aquesta pàgina<\/a> o torneu-ho a provar més tard.",
+          "other": "Els pagaments amb targeta de dèbit i crèdit no estan disponibles en aquest moment.<br> <a href=\"%%7Bcurrent_url%7D\">Actualitzeu aquesta pàgina<\/a> o intenteu utilitzar una forma de pagament diferent.",
+          "many": "Els pagaments amb targeta de dèbit i crèdit no estan disponibles en aquest moment.<br> <a href=\"%%7Bcurrent_url%7D\">Actualitzeu aquesta pàgina<\/a> o intenteu utilitzar una forma de pagament diferent."
+        },
+        "card_fields_processing_error": "S'ha produït un error en processar el pagament. Intenta actualitzar aquesta pàgina o revisa la teva connexió a internet.",
+        "technical_error": "No es poden processar els pagaments en aquest moment degut a un problema tècnic. Torneu-ho a intentar en uns minuts.",
+        "no_method_error": "Aquesta botiga no pot acceptar pagaments en aquest moment.",
+        "not_configured_error": "Aquesta botiga no pot acceptar pagaments en aquest moment.",
+        "missing_credit_card_error": "Introdueix els detalls de la targeta per completar el pagament",
+        "generic_incorrect_card_info": "No s'han pogut verificar els detalls del pagament. Verifica els detalls de la targeta i torna-ho a intentar.",
+        "bank_picker_label": "Banc",
+        "klarna_pay_now_label": "Paga ara amb Klarna",
+        "klarna_pay_later_label": "Paga en 30 dies amb Klarna",
+        "klarna_slice_it_label": "Finances amb Klarna",
+        "card_expiration_month_label": "Mes de venciment",
+        "card_expiration_year_label": "Any de venciment",
+        "card_information_notice": "Totes les transaccions són segures i estan encriptades. Mai no s'emmagatzema la informació de la targeta de crèdit.",
+        "credit_card_start_month": "Mes d'inici",
+        "credit_card_start_year": "Any d'inici",
+        "billing_address_not_supported_for_payment_method_error": "Aquest mètode de pagament no està disponible per a la vostra adreça de facturació i moneda. Prova-ho amb una altra forma de pagament.",
+        "change_currency_section_description": "Seleccioneu una opció de moneda",
+        "no_real_orders_dev_store": "Aquesta botiga no pot acceptar comandes ni pagaments reals.",
+        "subscription_agreement_label": "Reconec que estic acceptant una subscripció. Es renovarà al preu i amb la freqüència indicats fins que finalitzi o es {{cancelled}.",
+        "subscription_agreement_cancelled": "cancel·lada",
+        "subscription_agreement_label_html": "Reconec que estic acceptant una subscripció. Es renovarà al preu i amb la freqüència indicada fins que finalitzi o es\n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%%7Bpolicy_href%7D\">cancel·leu<\/a> .\n",
+        "waiting_on_payment_methods": "Buscant formes de pagament disponibles..."
       },
       "thank_you": {
         "order_updates_title": "Actualitzacions de la comanda",
@@ -1429,8 +1497,67 @@
       "open_tracking": {
         "opt_in": {
           "opted_in_html": "<b>T'has subscrit al seguiment de correus oberts.<\/b>",
-          "visibility": "Les taxes de correus oberts s'informaran de manera anònima. Només veurem si heu obert un correu electrònic com a part d'una taxa agregada de correus oberts."
+          "visibility": "Les taxes de correus oberts s'informaran de manera anònima. Només veurem si heu obert un correu electrònic com a part d'una taxa agregada de correus oberts.",
+          "opt_out_html": "Pots <a style=\"text-decoration:underline;\" href=\"%%7Blink%7D\">donar-te de baixa<\/a> del seguiment de correus oberts si no vols compartir aquesta informació.",
+          "preview_bar": "Estàs revisant la vista prèvia del que veuran els clients quan se subscriguin al seguiment de correus oberts."
+        },
+        "opt_out": {
+          "opted_out_html": "<b>T'has donat de baixa del seguiment de correus oberts.<\/b>",
+          "visibility": "No veurem si has obert els nostres correus electrònics.",
+          "opt_in_html": "<a style=\"text-decoration:underline;\" href=\"%%7Blink%7D\">Accepteu<\/a> el seguiment de correus oberts.",
+          "preview_bar": "Estàs revisant la vista prèvia del que veuran els clients quan es donin de baixa del seguiment de correus oberts."
+        },
+        "no_longer_track": {
+          "status_html": "<b>Ja no fem seguiment de correus oberts.<\/b>",
+          "privacy_policy": "Després d'enviar aquest correu electrònic, hem actualitzat la nostra política de privadesa i ja no fem seguiment d'obertures."
+        },
+        "track": {
+          "status_html": "<b>El seguiment de correus oberts se n'informa.<\/b>",
+          "visibility": "Només veurem si has obert el correu electrònic com a part de la taxa total de correus oberts."
+        },
+        "updated_policy": {
+          "status_html": "<b>El seguiment de correus oberts se n'informa.<\/b>",
+          "visibility": "Hem actualitzat la nostra política i ara fem seguiment de correus oberts. Les taxes de correus oberts s'informaran de manera anònima. Només veurem si has obert un correu electrònic com a part de la taxa total de correus oberts.",
+          "opt_out_html": "Si no vols compartir aquesta informació, pots donar- <a style=\"text-decoration:underline;\" href=\"%%7Blink%7D\">te de baixa<\/a> ."
         }
+      }
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "one_hour": "Normalment està llest en 1 hora",
+        "two_hours": "Normalment està llest en 2 hores",
+        "four_hours": "Normalment està llest en 4 hores",
+        "twenty_four_hours": "Normalment està llest en 24 hores",
+        "two_to_four_days": "Normalment està llest en 2 a 4 dies",
+        "five_or_more_days": "Normalment està llest en 5 dies o més",
+        "zero_to_two_hours": "Normalment està llest en 2 hores",
+        "two_to_four_hours": "Normalment està llest en 4 hores",
+        "immediately": "A punt per retirar ara",
+        "next_day": "A punt per retirar l'endemà"
+      }
+    },
+    "filters": {
+      "availability": {
+        "label": "Disponibilitat",
+        "value": {
+          "out_of_stock": "Esgotat"
+        }
+      },
+      "price": {
+        "label": "Preu"
+      },
+      "product_type": {
+        "label": "Tipus de producte"
+      },
+      "tags": {
+        "label": "Més filtres"
+      }
+    },
+    "search": {
+      "sorting": {
+        "relevance": "Rellevància",
+        "price_ascending": "Preu, menor a major",
+        "price_descending": "Preu, major a menor"
       }
     }
   },
@@ -1788,7 +1915,9 @@
         "picked_up_description": "Aquests articles es van retirar.",
         "submitted_description": "Revisa els detalls de la comanda i el pagament."
       },
-      "status_mark_as_delivered": "Marcar com a lliurat"
+      "status_mark_as_delivered": "Marcar com a lliurat",
+      "list_layout_accessibility_label": "Opcions de disseny",
+      "list_title": "Comandes"
     },
     "order_details": {
       "addresses_section_title": "Facturació i enviament",
@@ -1903,6 +2032,58 @@
       "update_success_notification": "Adreça actualitzada",
       "attention": "Atenció",
       "attention_help_text": "Nom d'una persona o departament"
+    },
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "Amagar el menú Compte",
+        "label": "Compte",
+        "show_accessibility_label": "Mostra el menú Compte"
+      },
+      "action_menu_accessibility_label": "Més accions",
+      "close_menu_accessibility_label": "Tancar la navegació principal",
+      "contact_email_subject": "Contactar des de la botiga online {{shopName}}",
+      "contact_link": "Contacta'ns",
+      "delete_confirmation": {
+        "cancel": "Cancel·la"
+      },
+      "document_title": "{{sectionName}} - {{shopName}} - Compte",
+      "go_to_store_link": "Anar a la botiga",
+      "loading_message": "Carregant",
+      "log_out_link": "Tancar sessió",
+      "login_prompt": {
+        "privacy": "Privadesa",
+        "title": "Continuar a l'inici de sessió"
+      },
+      "logout_overlay_label": "Tancant sessió...",
+      "nav_label_accessibility_label": "Navegació principal",
+      "navigation_accessibility_message": "Vas navegar a {{sectionName}}",
+      "open_menu_accessibility_label": "Obrir navegació principal",
+      "orders_link_label": "Comandes",
+      "subscriptions_link_label": "Subscripcions"
+    },
+    "account_information": {
+      "loading_accessibility_message": "Carregant informació del compte",
+      "loading_finished_accessibility_message": "La informació del compte es va carregar.",
+      "profile_card": {
+        "cancel": "Cancel·la",
+        "cancel_accessibility_label": "Cancel·lar edició del perfil",
+        "edit": "Edita",
+        "email_help_text": "El correu electrònic utilitzat per iniciar sessió no es pot canviar.",
+        "first_name": "Nom",
+        "last_name": "Cognom",
+        "phone_number_help_text": "El número de telèfon utilitzat per iniciar sessió no es pot canviar.",
+        "save": "Desa",
+        "save_accessibility_label": "Desa perfil"
+      },
+      "profile_update_confirmation_message": "Perfil actualitzat",
+      "title": "Informació del compte",
+      "people": {
+        "pagination": {
+          "load_more": "Carregar més",
+          "load_more_accessibility_label": "Carregar més persones",
+          "loading_accessibility_label": "Carregant persones"
+        }
+      }
     }
   },
   "collections": {
