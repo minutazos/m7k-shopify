@@ -794,7 +794,8 @@
         "pick_up_in_four_hours": "Normalment està llest en 4 hores",
         "pick_up_immediately": "A punt per ser retirat ara",
         "pick_up_next_day": "A punt per retirar l'endemà",
-        "pick_up_in_one_hour": "Normalment està llest en 1 hora"
+        "pick_up_in_one_hour": "Normalment està llest en 1 hora",
+        "ship": "Envía"
       },
       "customer_account": {
         "not_user_label": "No ets %{first_name}?",
