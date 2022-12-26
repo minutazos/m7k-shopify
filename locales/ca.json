@@ -535,5 +535,155 @@
         "order_status_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}."
       }
     }
+  },
+  "customer_accounts": {
+    "B2B": {
+      "draft_order_details": {
+        "title": "Comanda {{name}}",
+        "order_timeline": {
+          "expand_events_label": "Mostrar detalls",
+          "expand_events_accessibility_label": "Mostra els detalls de la comanda preliminar",
+          "hide_events_label": "Amagar detalls",
+          "hide_events_accessibility_label": "Amagar els detalls de la comanda preliminar"
+        }
+      }
+    },
+    "errors": {
+      "address_deletion_error": {
+        "description": "Hi ha hagut un problema en eliminar la direcció. Torneu-ho a provar o actualitzeu la pàgina."
+      },
+      "addresses_loading_issue": {
+        "description": "Error de connexió. Comproveu la connexió a internet i torneu-ho a provar."
+      },
+      "banner_title": {
+        "one": "Hi ha {{count}} error.",
+        "other": "Hi ha {{count}} errors.",
+        "many": "Hi ha {{count}} errors."
+      },
+      "failed_address_creation": {
+        "description": "S'ha produït un problema en crear l'adreça. Intenta actualitzar aquesta pàgina o comprova la connexió a Internet."
+      },
+      "failed_address_update": {
+        "description": "S'ha produït un problema en actualitzar l'adreça. Intenta actualitzar aquesta pàgina o comprova la connexió a Internet."
+      },
+      "no_access": {
+        "back_to_authentication_link": "Inicia sessió en un compte diferent",
+        "description": "No estàs registrat com a client B2B a {{shopName}} .",
+        "title": "Sense accés"
+      },
+      "no_access_to_locations": {
+        "description": "No teniu accés a cap ubicació."
+      },
+      "not_found": {
+        "description": "Comproveu l'URL o torneu-ho a provar d'aquí a uns minuts.",
+        "title": "Hi ha hagut un problema en carregar aquesta pàgina."
+      },
+      "order_not_found": {
+        "description": "La comanda no existeix o no tens permís per veure-ho.",
+        "title": "No es troba la comanda"
+      },
+      "profile_update_error": {
+        "description": "Hi ha hagut un problema en actualitzar el perfil. Intenta actualitzar aquesta pàgina o comprova la connexió a Internet."
+      },
+      "load_orders_error": {
+        "title": "No es poden carregar les comandes",
+        "description": "Intenta-ho de nou o torna més tard."
+      }
+    },
+    "shop_policies": {
+      "legal_notice": "Avís legal",
+      "privacy_policy": "Política de privadesa",
+      "refund_policy": "Política de reemborsament",
+      "shipping_policy": "Política d'enviament",
+      "subscription_policy": "Política de subscripció",
+      "terms_of_sale": "Condicions de venda",
+      "terms_of_service": "Termes del Servei"
+    },
+    "payment_methods": {
+      "title": "Formes de pagament",
+      "add_payment_method_button": "Afegir forma de pagament",
+      "payment_details": {
+        "title": "Detalls de la forma de pagament",
+        "credit_card_ending_in": "acaba a {{lastDigits}}",
+        "payment_method_expiring_on": "Venç l' {{expiryDate}}",
+        "preauthorized_payments": "Pagaments preautoritzats",
+        "close_payment_modal": "Tancar",
+        "close_payment_modal_accessibility_label": "Tancar modal de detalls de forma de pagament",
+        "payment_method_not_found_error": "No es troba la forma de pagament.",
+        "payment_details_loading": "Carregant detalls de forma de pagament",
+        "pre_authorized_payments": "Pagaments preautoritzats",
+        "total_amount_of_subscription_line_items_left": "i {{total}} més",
+        "total_amount_of_subscription_line_items_left_accessibility_label": "Hi ha un total de {{totalItems}} articles. Es mostren {{totalItemsToDisplay}} .",
+        "next_payment_due": "El proper pagament venç el {{dueDateInMonthDayYear}}"
+      },
+      "delete_payment_method_button_accessibility_label": "Eliminar {{paymentMethodName}}",
+      "back_button": "Enrere",
+      "back_button_accessibility_label": "Tornar a {{paymentMethodStepTitle}}",
+      "generic_card": "Targeta",
+      "payment_delete": {
+        "title": "Eliminar forma de pagament",
+        "description_without_replacement": "Aquesta forma de pagament ja no estarà disponible per a futures compres.",
+        "description_with_replacement": "Eliminar aquesta forma de pagament afectarà els pagaments preautoritzats. Reemplaça-la per una altra forma de pagament per continuar rebent les properes comandes.",
+        "payment_method_selector_placeholder": "Selecciona una forma de pagament",
+        "replace_method_with_new_method_description": "El teu {{currentPaymentMethodName}} s'eliminarà i se substituirà pel teu {{newPaymentMethodName}} .",
+        "error_when_deleting": "Disculpa, però s'ha produït un error i no hem pogut eliminar aquesta forma de pagament. Torneu-ho a provar més tard o actualitzeu la pàgina.",
+        "delete_and_replace_button": "Eliminar i reemplaçar",
+        "delete_and_replace_button_accessibility_label": "Eliminar {{currentPaymentMethodName}} i reemplaça-la per {{newPaymentMethodName}} .",
+        "deleted_successfully": "La forma de pagament es va eliminar correctament.",
+        "payment_method_selector_no_alternative_payment": "Cap",
+        "loading_available_payment_methods_accessibility_label": "Carregant les formes de pagament disponibles"
+      }
+    }
+  },
+  "collections": {
+    "general": {
+      "view_all": "Veure-ho tot",
+      "view_all_label": "Veure tots els productes de la col·lecció {{ collection_name }}",
+      "no_matches": "Ho sentim, no hi ha productes que coincideixin amb la cerca.",
+      "items_with_count": {
+        "one": "{{ count }} article",
+        "other": "{{ count }} articles"
+      },
+      "collection_label": "Col·lecció"
+    },
+    "catalog": {
+      "title": "Catàleg"
+    },
+    "sorting": {
+      "title": "Ordenar per"
+    },
+    "filters": {
+      "title_tags": "Filtrar per",
+      "all_tags": "Tots els productes"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "El meu compte",
+      "details": "Detalls del compte",
+      "view_addresses": "Veure adreces",
+      "return": "Tornar a detalls del compte"
+    },
+    "activate_account": {
+      "title": "Activar compte",
+      "subtext": "Creeu la vostra contrasenya per activar el vostre compte.",
+      "password": "Contrasenya",
+      "password_confirm": "Confirmar contrasenya",
+      "submit": "Activar compte",
+      "cancel": "Rebutjar invitació"
+    },
+    "addresses": {
+      "title": "Les vostres adreces",
+      "default": "Per defecte",
+      "add_new": "Afegir una nova adreça",
+      "edit_address": "Editar direcció",
+      "first_name": "Nom",
+      "last_name": "Cognom",
+      "address1": "Direcció",
+      "address2": "Apartament, suite, etc.",
+      "city": "Ciutat",
+      "country": "País \/ Regió",
+      "zip": "Codi postal"
+    }
   }
 }
