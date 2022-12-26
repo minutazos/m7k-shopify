@@ -1238,7 +1238,8 @@
         "full_price": "Preu regular:",
         "error_page_title": "Error",
         "continue_button_label": "Continuar",
-        "print_policies_link_label": "Imprimir"
+        "print_policies_link_label": "Imprimir",
+        "autocomplete_selection": "{{number}} de {{total}}"
       },
       "contact": {
         "title": "Informació",
@@ -1286,7 +1287,9 @@
         "pincode_label": "Codi d'identificació personal",
         "pincode_placeholder": "Codi d'identificació personal",
         "region_none": "No s'ha seleccionat cap",
-        "civic_number_warning": "Afegeix un número de domicili si el tens"
+        "civic_number_warning": "Afegeix un número de domicili si el tens",
+        "company_label": "Empresa",
+        "optional_company_label": "Empresa (opcional)"
       }
     },
     "pagination": {
