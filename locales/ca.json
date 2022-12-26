@@ -914,7 +914,124 @@
       "gift_card_code_invalid": "Codi no vàlid",
       "gift_card_currency_mismatch": "La teva targeta de regal és a %{gift_card_currency}. Contacta amb nosaltres perquè tornem a emetre-la a %{checkout_currency}.",
       "gift_card_depleted": "No queden fons disponibles en aquesta targeta de regal",
-      "gift_card_disabled": "La targeta de regal està desactivada"
+      "gift_card_disabled": "La targeta de regal està desactivada",
+      "gift_card_expired": "La targeta de regal ha caducat",
+      "invalid": "no vàlid",
+      "bad_domain": "conté un nom de domini invàlid",
+      "taken": "ja s'ha pres",
+      "contains_html_tags": "no pot contenir etiquetes HTML",
+      "too_short": "és massa curt (ha de contenir un mínim de %{count} caràcters)",
+      "too_long": "és massa llarg (el màxim són %{count} caràcters)",
+      "password_mismatch": "ha de coincidir amb la contrasenya subministrada",
+      "contains_spaces": "comença o acaba amb espais.",
+      "email_domain_invalid": "el proveïdor no és compatible",
+      "invalid_for_country": "no és vàlid per a %{country}",
+      "invalid_for_country_and_province": "no és vàlid per a %{province} i %{country}",
+      "invalid_province_in_country": "no és una província vàlida a %{country}",
+      "invalid_state_in_country": "no és un estat vàlid a %{country}",
+      "invalid_region_in_country": "no és una regió vàlida a %{country}",
+      "less_than_or_equal_to": "ha de ser menor o igual a %{count}",
+      "full_name_required": "Introdueix un nom i cognom",
+      "invalid_for_card_type": "no és vàlid per a aquest tipus de targeta",
+      "invalid_type": "Ho sentim, no acceptem targetes d'aquest tipus",
+      "invalid_format": "no és un número de targeta de crèdit",
+      "expired": "La targeta de crèdit ha caducat",
+      "invalid_start_date_or_issue_number_for_debit": "Cal una data d'inici o un número d'expedició vàlids",
+      "invalid_expiry_year": "no és un any de venciment vàlid",
+      "reset_password_html": "Aquesta adreça de correu electrònic ja ha estat associada amb un compte. Si el compte és teu, pots <a href=\"\/account\/login#recover\">restablir la teva contrasenya aquí<\/a>",
+      "verify_email": "Hem enviat un correu electrònic a %{customer_email} si us plau fes clic a l'enllaç inclòs per verificar la teva adreça de correu electrònic.",
+      "blocked_address": "Aquesta ubicació no és compatible.",
+      "product_not_available": "el producte no apareix publicat per a aquest client."
+    },
+    "notices": {
+      "customer": {
+        "password_reset_error": "Error en restablir la contrasenya",
+        "no_account_found": "No s'ha trobat cap compte amb aquesta adreça electrònica.",
+        "invalid_credentials": "Correu electrònic o contrasenya incorrectes.",
+        "denylisted_reset_password": "No es pot accedir al vostre compte perquè la contrasenya actual no és segura. Rebràs un correu electrònic per actualitzar la teva contrasenya."
+      },
+      "address": {
+        "updated": "Adreça actualitzada amb èxit.",
+        "error_updating": "Error en actualitzar l'adreça.",
+        "created": "Adreça creada amb èxit",
+        "error_creating": "Error en crear la direcció.",
+        "deleted": "Adreça eliminada amb èxit.",
+        "error_deleting": "Error en eliminar la direcció."
+      },
+      "order": {
+        "not_available": "Aquesta comanda no està disponible.",
+        "financial_status": {
+          "authorized": "Autoritzada",
+          "pending": "Pendent",
+          "voided": "Anul·lada",
+          "partially_paid": "Pagada parcialment",
+          "partially_refunded": "Reemborsada parcialment",
+          "refunded": "Reemborsada",
+          "expired": "Vençut"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Conclosa",
+          "unfulfilled": "No realitzada",
+          "restocked": "Recanvi"
+        },
+        "transaction_status": {
+          "success": "Èxit",
+          "pending": "Pendent",
+          "failure": "Fallada"
+        },
+        "cancel_reason": {
+          "declined": "Pagament rebutjat",
+          "inventory": "Articles no disponibles",
+          "fraud": "Comanda fraudulent",
+          "customer": "El client va canviar\/cancel·lar comanda",
+          "other": "Un altre",
+          "many": "Un altre"
+        },
+        "cash_on_delivery": "Pagament contra lliurament"
+      },
+      "cart": {
+        "only_n_items_available": "Només podeu afegir %{count} %{name} a la cistella.",
+        "too_many_items_in_cart": "No podeu afegir més %{name} a la cistella.",
+        "all_items_in_cart": "La teva cistella conté: %{count} %{name}.",
+        "empty_update": "No es pot actualitzar un carret buit",
+        "missing_parameters": "Identificació o paràmetre lineal no vàlids",
+        "generic_error": "Error a la cistella",
+        "too_many_line_items_error": "El carretó no pot contenir més de %{max} articles.",
+        "link_expired": "L'enllaç ha caducat",
+        "link_no_longer_exists": "L'enllaç ja no existeix.",
+        "stock_problems_html": "Un o més articles ja no estan disponibles. Hem actualitzat la teva <a href=\"%%7Blink%7D\">cistella<\/a> .",
+        "changed": "El carretó s'ha modificat",
+        "items_changed": "S'han canviat un o més articles.",
+        "product_sold_out": "L'article '%{name}' ja està esgotat.",
+        "variant_not_found": "No s'ha trobat la variant",
+        "variant_requires_selling_plan": "La variant només es pot comprar amb un pla de vendes.",
+        "shipping_address_not_required": "Aquest carretó no requereix enviament",
+        "shipping_address_invalid": "Hi va haver un problema en calcular les tarifes d'enviament. Continua amb el pagament per seleccionar una tarifa d'enviament abans de completar la comanda.",
+        "selling_plan_not_applicable": "No es pot aplicar el pla de venda a la variant",
+        "selling_plan_not_available_for_company_locations": "Només s'admeten compres úniques per a les comandes B2B.",
+        "digital_product_not_available_for_company_locations": "Aquest article no es pot afegir a una comanda B2B",
+        "product_not_available": "El producte no està disponible"
+      },
+      "storefront": {
+        "invalid_password": "Contrasenya incorrecta, si us plau torna a intentar-ho."
+      },
+      "tags": {
+        "add_articles": "Refinar cerca als articles que també tenen l'etiqueta %{tag}",
+        "add_products": "Refinar selecció als productes que coincideixen amb l'etiqueta %{tag}",
+        "remove_articles": "Ampliar cerca als articles que no estan etiquetats amb %{tag}"
+      }
+    },
+    "page_titles": {
+      "products": "Productes",
+      "shopping_cart": "El teu carret",
+      "account": "Compte",
+      "create_account": "Crear compte",
+      "reset_account": "Restablir compte",
+      "addresses": "Adreces",
+      "order": "Comanda%{name}",
+      "search": "Cerca",
+      "collections": "Col·leccions",
+      "not_found": "404 No trobat"
     }
   },
   "customer_accounts": {
