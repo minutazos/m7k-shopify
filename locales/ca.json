@@ -689,7 +689,13 @@
         "pick_up_in_zero_to_two_hours": "A punt per retir en 2 hores",
         "pick_up_in_two_to_four_hours": "A punt per retir en 4 hores",
         "shipping_address": "Direcció d'enviament",
-        "pick_up_locations": "Llocs de retir"
+        "pick_up_locations": "Llocs de retir",
+        "pick_up": "Retir",
+        "pick_up_in_two_hours": "Normalment està llest en 2 hores",
+        "pick_up_in_four_hours": "Normalment està llest en 4 hores",
+        "pick_up_immediately": "A punt per ser retirat ara",
+        "pick_up_next_day": "A punt per retirar l'endemà",
+        "pick_up_in_one_hour": "Normalment està llest en 1 hora"
       },
       "customer_account": {
         "not_user_label": "No ets %{first_name}?",
@@ -1088,6 +1094,97 @@
         "address_zip_not_supported": "Aquesta ubicació no és compatible.",
         "gift_card_buying_gift_card": "No pots fer servir una targeta de regal per comprar una altra targeta de regal.",
         "payment_gateway_unsupported_for_country": "Aquesta forma de pagament no està disponible per al vostre país d'enviament."
+      },
+      "general": {
+        "page_title": "Pantalla de pagament",
+        "skip_to_content": "Anar directament al contingut",
+        "breadcrumb": "Ruta de navegació",
+        "complete_purchase_button_label": "Finalitzar la comanda",
+        "pay_now_button_label": "Pagar ara",
+        "authenticate_purchase_button_label": "Autenticar pagament",
+        "edit_link_label": "Edita",
+        "all_rights_reserved": "Tots els drets reservats %{shop_name}",
+        "cart": "Cistella",
+        "close_modal_label": "Tancar",
+        "close_notice_label": "Tancar",
+        "expand_notice_label": "Veure més",
+        "continue_to_shipping_method": "Continuar amb enviaments",
+        "continue_to_payment_method": "Continuar amb el pagament",
+        "continue_to_review": "Revisar l'ordre",
+        "back_to_cart": "Tornar a la cistella",
+        "back_to_contact_information": "Tornar a informació",
+        "back_to_shipping_method": "Tornar a enviaments",
+        "back_to_payment_method": "Tornar al pagament",
+        "choose_shipping_method": "Seleccioneu un mètode d'enviament",
+        "choose_payment_method": "Seleccioneu un mètode de pagament",
+        "choose_billing_address": "Seleccioneu una adreça de facturació",
+        "contact_us_html": "Poseu-vos en contacte amb nosaltres per obtenir més informació",
+        "autocomplete_title": "Suggeriments",
+        "autocomplete_single_item": "1 opció disponible",
+        "autocomplete_multi_item": "{{number}} opcions disponibles",
+        "autocomplete_close": "Tanca els suggeriments",
+        "forwarding_indicator": {
+          "new_window": "Obre en una finestra nova.",
+          "external": "Obre lloc extern.",
+          "external_and_new_window": "Obre lloc extern extern en una finestra nova."
+        },
+        "checkout_context": {
+          "step_one": "%{shop_name} - Caixa"
+        },
+        "tooltip_accessibility_label": "Més informació",
+        "errors": {
+          "session_identifier_not_unique_error": "S'ha produït un error amb la comanda. Intenta tornar a processar el pagament.",
+          "line_item_limit_reached": "S'ha aconseguit la quantitat màxima de línies d'article."
+        },
+        "full_price": "Preu regular:"
+      },
+      "contact": {
+        "title": "Informació",
+        "address_title": "Direcció",
+        "shipping_address_title": "Direcció d'enviament",
+        "delivery_option_title": "Forma de lliurament",
+        "contact_method_title": "Informació de contacte",
+        "email_label": "Correu electrònic",
+        "email_placeholder": "Correu electrònic",
+        "email_or_phone_label": "Email o número de telèfon mòbil",
+        "email_or_phone_placeholder": "Email o número de telèfon mòbil",
+        "stored_addresses_label": "Adreces desades",
+        "new_address_label": "Fes servir una nova adreça",
+        "first_name_label": "Nom",
+        "optional_first_name_label": "Nom (opcional)",
+        "last_name_label": "Cognoms",
+        "address1_label": "Direcció",
+        "address2_label": "Casa, apartament, etc. (opcional)",
+        "optional_address2_label": "Casa, apartament, etc. (opcional)",
+        "city_label": "Ciutat",
+        "country_label": "País \/ Regió",
+        "country_code": "Codi de país\/regió",
+        "province_label": "Província \/ Estat",
+        "province_placeholder": "Província \/ Estat",
+        "county_label": "Comtat",
+        "county_placeholder": "Comtat",
+        "state_label": "Estat",
+        "state_placeholder": "Estat",
+        "region_label": "Regió",
+        "region_placeholder": "Regió",
+        "emirate_label": "Emirat",
+        "emirate_placeholder": "Emirat",
+        "state_and_territory_label": "Estat\/Territori",
+        "state_and_territory_placeholder": "Estat\/Territori",
+        "phone_label": "Telèfon",
+        "optional_phone_label": "Telèfon (opcional)",
+        "phone_placeholder": "Telèfon",
+        "phone_tooltip": "En cas que haguem de contactar-te sobre la teva comanda.",
+        "zip_code_label": "Codi postal",
+        "zip_code_placeholder": "Codi postal",
+        "postal_code_label": "Codi postal",
+        "postal_code_placeholder": "Codi postal",
+        "postcode_label": "Codi postal",
+        "postcode_placeholder": "Codi postal",
+        "pincode_label": "Codi d'identificació personal",
+        "pincode_placeholder": "Codi d'identificació personal",
+        "region_none": "No s'ha seleccionat cap",
+        "civic_number_warning": "Afegeix un número de domicili si el tens"
       }
     },
     "pagination": {
@@ -1264,6 +1361,10 @@
       "search": "Cerca",
       "collections": "Col·leccions",
       "not_found": "404 No trobat"
+    },
+    "sentence": {
+      "two_words_connector": "i",
+      "last_word_connector": ", i"
     }
   },
   "customer_accounts": {
