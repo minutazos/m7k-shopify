@@ -902,7 +902,70 @@
       "address2": "Apartament, suite, etc.",
       "city": "Ciutat",
       "country": "País \/ Regió",
-      "zip": "Codi postal"
+      "zip": "Codi postal",
+      "phone": "Telèfon",
+      "set_default": "Fixar com a adreça per defecte",
+      "add": "Afegir adreça",
+      "update": "Actualitzar adreça",
+      "cancel": "Cancel·la",
+      "edit": "Edita",
+      "delete_confirm": "Esteu segur que voleu suprimir aquesta adreça?"
+    },
+    "login": {
+      "title": "Ingressar",
+      "email": "Correu electrònic",
+      "password": "Contrasenya",
+      "forgot_password": "Heu oblidat la contrasenya?",
+      "sign_in": "Registrar-se",
+      "guest_title": "Continuar com a convidat"
+    },
+    "orders": {
+      "title": "Historial de comandes",
+      "order_number": "Comanda",
+      "order_number_link": "Número de comanda {{ number }}",
+      "date": "Data",
+      "payment_status": "Estat del pagament",
+      "fulfillment_status": "Estat de la preparació",
+      "none": "Encara no ha fet cap comanda."
+    },
+    "order": {
+      "title": "Comanda {{ name }}",
+      "date_html": "Realitzat a {{ date }}",
+      "cancelled_html": "Comanda cancel·lada a {{ date }}",
+      "cancelled_reason": "Motiu: {{ reason }}",
+      "billing_address": "Adreça de facturació",
+      "payment_status": "Estat del pagament",
+      "shipping_address": "Direcció d'enviament",
+      "fulfillment_status": "Estat de la preparació",
+      "discount": "Descompte",
+      "shipping": "Enviaments",
+      "tax": "Impost",
+      "product": "Producte",
+      "price": "Preu",
+      "quantity": "Quantitat",
+      "fulfilled_at_html": "Finalitzat {{ date }}",
+      "track_shipment": "Rastrejar enviament"
+    },
+    "recover_password": {
+      "title": "Restablir la contrasenya",
+      "email": "Correu electrònic",
+      "cancel": "Cancel·la",
+      "subtext": "Us enviarem un correu electrònic per restablir la vostra contrasenya.",
+      "success": "Hem enviat un correu electrònic amb un enllaç per actualitzar la contrasenya."
+    },
+    "reset_password": {
+      "title": "Restablir contrasenya de compte",
+      "subtext": "Introduïu una contrasenya nova per a {{ email }}",
+      "password": "Contrasenya",
+      "password_confirm": "Confirmar contrasenya",
+      "submit": "Restablir contrasenya"
+    },
+    "register": {
+      "title": "Crear compte",
+      "first_name": "Nom",
+      "last_name": "Cognom",
+      "email": "Correu electrònic",
+      "password": "Contrasenya"
     }
   }
 }
