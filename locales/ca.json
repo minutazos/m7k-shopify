@@ -600,7 +600,33 @@
         "thank_you_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}.",
         "thank_you_confirmed_order_with_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
         "thank_you_confirmed_order_with_email_and_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
-        "order_status_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}."
+        "order_status_confirmed_order_with_email_payment": "Has fet un pagament de la teva comanda el %{date}.",
+        "order_status_confirmed_order_with_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
+        "order_status_confirmed_order_with_email_and_phone_payment": "Has fet un pagament a la teva comanda %{date}.",
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "title": "Escaneja amb el telèfon",
+            "description": "Shop us enviarà informació en temps real sobre el lliurament quan s'hagi enviat la vostra comanda."
+          },
+          "sms": {
+            "title": "O envia un enllaç al teu telèfon"
+          }
+        },
+        "estimated_delivery": "Lliurament estimat",
+        "view_business_customer_account": "Veure compte",
+        "thank_you_title_review": "Es va enviar la teva comanda a revisió",
+        "thank_you_confirmed_order_with_draft": "Contactarem amb tu si necessitem més informació o un cop es confirmi la comanda.",
+        "payment_method_draft_order": "Venç una vegada revisada la comanda",
+        "breadcrumbs_in_review": "En revisió",
+        "missing_shipping_address_banner": {
+          "title": "Manca la direcció d'enviament",
+          "text_html": "%{contact_us} amb la vostra adreça d'enviament per completar aquesta comanda."
+        },
+        "order_status_confirmed_with_installments_payment_return": "Torna a concentrar la teva atenció al venedor.",
+        "order_status_confirmed_with_installments_payment_confirm": "Rebràs aviat un correu electrònic de confirmació amb el teu número de comanda i els detalls del teu programa de quotes.",
+        "first_payment_complete": "Primer pagament completat",
+        "in_store_purchase": "Compra a la botiga física",
+        "optimus_button_label": "Comprar amb Optimus: fer seguiment del paquet"
       },
       "delivery_options": {
         "pick_up_in_twenty_four_hours": "Normalment està llest en 24 hores",
@@ -729,6 +755,107 @@
       },
       "change_cart_localization": {
         "verify_shipping_address": "El teu país o regió es va modificar. Introduïu la vostra adreça d'enviament per continuar amb el pagament."
+      },
+      "review": {
+        "review_title": "Revisar comanda",
+        "checkout_as_guest": "Finalitzar compra com a visitant",
+        "blocks": {
+          "contact_method_title": "Contacte",
+          "billing_address_title": "Facturació",
+          "shipping_method_title": "Mètode",
+          "payment_method_title": "Pagament",
+          "change_link_label": "Canviar",
+          "change_contact_method_link_label": "Canviar informació de contacte",
+          "change_billing_address_link_label": "Canviar adreça de facturació",
+          "change_shipping_address_link_label": "Canviar adreça d'enviament",
+          "change_shipping_method_link_label": "Canviar mètode d'enviament",
+          "change_payment_method_link_label": "Canviar mètode de pagament",
+          "pick_up_in_store_shipping_method_html": "Retirar a la botiga · %{location_name}"
+        }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Enviar-me novetats i ofertes per correu electrònic",
+        "unsubscribe": {
+          "title": "Heu cancel·lat la vostra subscripció",
+          "description": "No rebrà més recordatoris de cistelles de compra nostres."
+        },
+        "accept_sms_checkbox_label": "Enviar-me novetats i ofertes per SMS",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Política de privadesa",
+            "terms_of_service": "Termes del servei",
+            "description_html": "En registrar-te per SMS, acceptes rebre missatges automatitzats de màrqueting recurrents al número de telèfon proporcionat, incloent recordatoris de carrets. El consentiment no és una condició de compra. Respon STOP per donar-te de baixa. Respon HELP per obtenir ajuda. La freqüència dels missatges varia. Poden aplicar-se tarifes de missatges i dades. Veure la nostra %{privacy_policy_link} i els nostres %{terms_of_service_link}.",
+            "description_transactional_html": "Podeu rebre missatges de text relacionats amb la confirmació de la comanda i actualitzacions d'enviament. Respon STOP per donar-te de baixa. Respon HELP per obtenir ajuda. La freqüència dels missatges varia. Poden aplicar-se tarifes de missatges i dades. Consulta la nostra %{privacy_policy_modal_link} i els nostres %{terms_of_service_modal_link}."
+          }
+        },
+        "post_accept_marketing_checkbox_label": "Estàs subscrit per rebre notícies i ofertes per correu electrònic",
+        "pending_accept_marketing_checkbox_label": "Revisa el teu correu electrònic i confirma la subscripció a les notícies i ofertes"
+      },
+      "shop_policies": {
+        "refund_policy": "Política de reemborsament",
+        "privacy_policy": "Política de privadesa",
+        "terms_of_service": "Termes del servei",
+        "legal_notice": "Avís legal",
+        "shipping_policy": "Política d'enviament",
+        "terms_of_sale": "Terms of surt",
+        "subscription_policy": "Política de cancel·lació d'opcions de compra",
+        "purchase_options_policy": "Política d'opcions de compra",
+        "contact_information": "Informació de contacte"
+      },
+      "remember_me": {
+        "save": "Desa",
+        "title": "Recordar-me",
+        "label": "Guarda la meva informació per a pagaments més ràpids",
+        "description_html": "La propera vegada que compris en aquesta o altra botiga amb tecnologia de Shopify, rebràs un codi per missatge de text per fer pagaments segurs amb Shop Pay.",
+        "mobile_phone_icon_alt": "Telèfon Mòbil",
+        "mobile_phone_number": "Número de telèfon",
+        "terms_and_privacy_html": "En continuar, acceptes la %{privacy_href} i %{terms_href} de Shop Pay.",
+        "privacy_policy": "Política de privadesa",
+        "terms_of_service": "Termes del servei",
+        "installments": {
+          "paid_in_installments": "Pagat en quotes amb Shop Pay.",
+          "view_schedule": "Veure cronograma"
+        },
+        "title_with_logo_html": "Recorda'm amb %{shopify_pay}",
+        "label_address_payment_and_faster_checkouts": "Permet que Shop Pay empleni la meva informació de pagament i la meva adreça per agilitzar els pagaments.",
+        "label_faster_checkouts_and_thousand_shops": "Guarda la meva informació amb Shop Pay per agilitzar els pagaments a més d'un milió de botigues.",
+        "external_acessibility_label": "(obre una nova finestra)"
+      },
+      "notifications": {
+        "title": "Notificacions"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Munto a pagar per la comanda %{order_name}",
+        "changes_summary": {
+          "added": {
+            "one": "Agregat",
+            "other": "%{count} agregat",
+            "many": "%{count} agregat"
+          },
+          "subtracted": "%{count} eliminat"
+        },
+        "additional_payment_requested": "Es requereix el pagament de %{total_outstanding}",
+        "checkout_review_and_pay": "La vostra comanda %{order_name} s'ha actualitzat. Revisa aquests canvis, després paga per confirmar la teva comanda.",
+        "order_updated_on": "La teva comanda es va actualitzar a %{last_edited_at}.",
+        "order_review_and_pay": "La teva comanda es va actualitzar. Revisa i paga per confirmar la teva comanda.",
+        "pay_now": "Pagar ara"
+      },
+      "change_currency": {
+        "credit_card_will_be_charged_html": "Es cobrarà %{amount} a la targeta de crèdit",
+        "payment_total_label": "Total del pagament",
+        "change_currency_link": "Canvia a %{currency_name}",
+        "card_provider_fx_charges_warning": "És possible que el vostre proveïdor de targeta cobri algun càrrec per transaccions a %{currency_code}.",
+        "currency_not_supported_by_shop": "La moneda que heu seleccionat ja no està disponible. Tots els preus són ara a %{currency_code}."
+      },
+      "tips": {
+        "title": "Afegir propina",
+        "description": "Dóna una mostra de suport a l'equip de %{shop_name}",
+        "presets_description": "Selecciona un percentatge de propina",
+        "custom_label": "Propina personalitzada",
+        "add_tip": "Afegir propina",
+        "update_tip": "Actualitzar propina",
+        "message": "Moltes gràcies",
+        "no_tip_label": "Cap"
       }
     },
     "pagination": {
