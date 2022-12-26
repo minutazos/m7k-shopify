@@ -799,7 +799,136 @@
           "expand_events_accessibility_label": "Mostra els detalls de la comanda preliminar",
           "hide_events_label": "Amagar detalls",
           "hide_events_accessibility_label": "Amagar els detalls de la comanda preliminar"
+        },
+        "draft_order_subtitle": "Data de confirmació del {{date}} de la comanda {{draftOrderName}}",
+        "loading": "Carregant detalls de la comanda",
+        "loading_finished_accessibility_message": "Els detalls de la comanda es van carregar.",
+        "payment_status": {
+          "draft": {
+            "description": "Els detalls del pagament es decideixen quan es confirma la comanda.",
+            "title": "Pagament encara no vençut",
+            "in_review": {
+              "description": "Els detalls del pagament es decideixen quan es confirma la comanda.",
+              "title": "Pagament encara no vençut"
+            },
+            "submitted": {
+              "description": "Efectua el pagament per confirmar aquesta comanda.",
+              "title": "Pagar per confirmar"
+            }
+          },
+          "paid": {
+            "description": "La comanda es va pagar íntegrament.",
+            "title": "Pagat",
+            "title_with_date": "Pagat el {{date}}"
+          },
+          "pay_now": "Pagar ara",
+          "title": "Estat del pagament",
+          "pending": {
+            "banner_overdue": {
+              "one": "El pagament va vèncer fa {{count}} dia.",
+              "other": "El pagament va vèncer fa {{count}} dies.",
+              "many": "El pagament va vèncer fa {{count}} dies."
+            },
+            "banner_due": {
+              "one": "El pagament venç a {{count}} dia.",
+              "other": "El pagament venç a {{count}} dies.",
+              "many": "El pagament venç a {{count}} dies."
+            },
+            "banner_due_today": "El pagament venç avui.",
+            "title": "Pagament vençut",
+            "title_with_date": "Pagament vençut el {{date}}",
+            "description_overdue": "El pagament porta retard.",
+            "description_partially_paid": "Es va pagar parcialment la comanda. Tens saldo restant.",
+            "description_authorized": "Es cobrarà segons la teva forma de pagament a la data de venciment, o pots pagar ara.",
+            "title_due_on_receipt": "Pagament no vençut",
+            "description_due_on_receipt": "Rebràs una factura quan el pagament venci.",
+            "title_due_on_fulfillment": "El pagament s'ha de fer en preparar la comanda",
+            "description_due_on_fulfillment": "El pagament s'ha de fer un cop preparats tots els articles de la comanda."
+          },
+          "refund": {
+            "title": "Reemborsat",
+            "title_with_date": "Reemborsat el {{date}}",
+            "description_full_refund": "Vas rebre un reemborsament complet per aquesta comanda.",
+            "description_single_refund": "Vas rebre un reemborsament parcial per aquesta comanda.",
+            "description_multiple_refunds": "Vas rebre reemborsaments parcials per aquesta comanda."
+          },
+          "canceled": {
+            "title": "Pagament cancel·lat",
+            "description": "No se't cobrarà."
+          }
+        },
+        "subtitle": "Data d'enviament: {{date}}"
+      },
+      "account_information": {
+        "company_card_name_label": "Nom de l'empresa"
+      },
+      "locations": {
+        "contact_email": "Correu electrònic",
+        "contact_list_title": "Gent",
+        "contact_name": "Nom",
+        "contact_phone_number": "Número de telèfon",
+        "location_picker_label": "Nom de la sucursal",
+        "net_payment_terms_description": "{{name}} : pagaments que vencen a {{numberOfDays}} dies",
+        "payment_details_title": "Detalls del pagament",
+        "payment_terms": "Condicions del pagament",
+        "permissions_label": "Els seus permisos",
+        "shipping_address_required": "Afegeix una adreça de facturació a aquesta sucursal per començar a fer comandes.",
+        "tax_details_title": "Informació fiscal",
+        "tax_id": "Identificació fiscal",
+        "tax_exemptions": "Exempcions d'impostos",
+        "multiple_tax_exemptions": "{{taxExemptionsCount}} més",
+        "tax_exemptions_modal_close": "Tancar",
+        "taxes_none": "Cap",
+        "tax_exemptions_modal_button_accessibility_label": "Veure totes les exempcions fiscals",
+        "pagination": {
+          "load_more": "Carregar més",
+          "load_more_accessibility_label": "Carregar més sucursals"
         }
+      },
+      "location_selection": {
+        "description": "Si ja teniu articles a la cistella, el canvi de sucursal pot afectar els preus i les quantitats del carret.",
+        "list_accessibility_label": "Llista de sucursals",
+        "list_item_without_address_accessibility_label": "{{name}} : sense adreça",
+        "list_loading_accessibility_message": "Carregant llista de sucursals",
+        "list_loading_address_accessibility_message": "Carregant adreça per a {{locationName}}",
+        "list_loading_finished_accessibility_message": "Es va carregar la llista de sucursals.",
+        "loading_store_accessibility_message": "Anar a la botiga",
+        "selection_cancel_button": "Cancel·la",
+        "selection_confirmation_button": "Triar sucursal",
+        "title": "Per a què sucursal compres?",
+        "continue_to_store": "Continuar a la botiga",
+        "no_location_title": "Només comandes personals",
+        "no_location_description": "Ja no tens permís per a realitzar comandes per a {{company}} . Encara pots fer comandes personals.",
+        "no_locations_found": "No s'ha trobat cap sucursal",
+        "clear_search": "Esborrar cerca",
+        "try_new_search": "Intentar una nova cerca"
+      },
+      "addresses": {
+        "add_billing_address_button": "Afegir adreça de facturació",
+        "add_billing_address_section_accessibility_label": "Afegir adreça de facturació",
+        "add_shipping_address_button": "Afegir adreça d'enviament",
+        "add_shipping_address_section_accessibility_label": "Afegir adreça d'enviament",
+        "billing_address_card_title": "Adreça de facturació",
+        "cancel_adding_billing_address_accessibility_label": "Cancel·la addició de direcció de facturació",
+        "cancel_adding_shipping_address_accessibility_label": "Cancel·la addició de direcció d'enviament",
+        "save_new_billing_address_accessibility_label": "Desar adreça de facturació",
+        "save_new_shipping_address_accessibility_label": "Desa la direcció d'enviament",
+        "shipping_address_card_title": "Direcció d'enviament"
+      },
+      "orders": {
+        "draft_order_list": {
+          "hide_all": "Amagar tot",
+          "show_all": "Mostra-ho tot",
+          "hide_all_accessibility_label": "Amagar totes les comandes de la revisió",
+          "show_all_accessibility_label": "Mostrar totes les comandes de la revisió",
+          "title": "Pendent",
+          "pagination": {
+            "nav_accessibility_label": "Botons de navegació de comandes en revisió"
+          },
+          "show_all_orders_in_review": "Mostrar totes les comandes a la revisió",
+          "show_less_orders_in_review": "Mostrar menys comandes a la revisió"
+        },
+        "order_list_column_headers_contact": "Contacte"
       }
     },
     "errors": {
@@ -892,7 +1021,130 @@
       "status_title": "Estat de la comanda",
       "buy_again": "Tornar a comprar",
       "buy_again_accessibility_label": "Tornar a comprar per a la comanda {{orderId}}",
-      "manage_accessiblity_label": "Gestionar comanda {{orderId}}"
+      "manage_accessiblity_label": "Gestionar comanda {{orderId}}",
+      "order_list": {
+        "column_headers": {
+          "delivery_date": "Data de lliurament",
+          "order_date": "Data de la comanda",
+          "order_number": "Número de comanda",
+          "status": "Estat de la comanda",
+          "items": "Articles",
+          "payment_status": "Estat del pagament"
+        },
+        "delivered": "Data de lliurament: {{date}}",
+        "empty_state_order_source_description": "Aquí només es mostraran les comandes que realitzeu {{email}} .",
+        "empty_state_subtitle": "Ves a la botiga per fer una comanda.",
+        "empty_state_title": "Encara no tens cap comanda",
+        "estimated": "Data estimada: {{date}}",
+        "estimated_delivery": "Lliurament estimat: {{date}}",
+        "items": {
+          "one": "{{count}} article",
+          "other": "{{count}} articles",
+          "many": "{{count}} articles"
+        },
+        "list_view": "Mostra la vista de llista",
+        "multiple_shipments": "Diversos enviaments",
+        "order_link": "Veure la comanda {{name}}",
+        "order_number": "Comanda {{name}}",
+        "orders_title": "Confirmat",
+        "pagination": {
+          "nav_accessibility_label": "Botons de navegació de les comandes",
+          "next": "Següent",
+          "next_accessibility_label": "Comandes següents",
+          "previous_accessibility_label": "Comandes anteriors",
+          "load_more": "Carregar més",
+          "load_more_accessibility_label": "Carregar més comandes"
+        },
+        "sort_by": "Ordenar per {{option}}",
+        "sort_hide_options_accessibility_label": "Amagar les opcions d'ordenació per a les comandes confirmades.",
+        "sort_show_options_accessibility_label": "Mostra les opcions d'ordenació per a les comandes confirmades.",
+        "sort": {
+          "date": {
+            "newest": "Del més recent al més antic",
+            "oldest": "Del més antic al més recent"
+          },
+          "location": {
+            "ascending": "Sucursal (AZ)",
+            "descending": "Sucursal (ZA)"
+          },
+          "order_number": {
+            "ascending": "Número de comanda (de menor a major)",
+            "descending": "Número de comanda (de major a menor)"
+          },
+          "order_total": {
+            "ascending": "Total de la comanda (de menor a major)",
+            "descending": "Total de la comanda (de major a menor)"
+          }
+        },
+        "table_view": "Mostra vista de taula",
+        "one_images_accessibility_label": "La comanda inclou {{lineItemName1}} .",
+        "two_images_accessibility_label": "La comanda inclou {{lineItemName1}} i {{lineItemName2}} .",
+        "three_images_accessibility_label": "La comanda inclou {{lineItemName1}} , {{lineItemName2}} i {{lineItemName3}} .",
+        "four_images_accessibility_label": "La comanda inclou {{lineItemName1}} , {{lineItemName2}} , {{lineItemName3}} i {{lineItemName4}} .",
+        "no_filtered_results_description": "Treure o ajustar els filtres per veure les comandes",
+        "no_filtered_results_title": "No hi ha cap resultat filtrat",
+        "estimated_shortform": "El {{date}} aprox.",
+        "payment_status": {
+          "list_view": {
+            "overdue": "Pagament vençut",
+            "due": "El pagament venç el {{date}}",
+            "due_today": "El pagament venç avui",
+            "due_without_date": "Pagament vençut",
+            "due_on_fulfillment": "El pagament s'ha de fer en preparar la comanda",
+            "pay_to_confirm": "Pagar per confirmar",
+            "payment_not_due": "Pagament encara no vençut"
+          },
+          "table_view": {
+            "overdue": "Vençut",
+            "due": "Venç el {{date}}",
+            "due_today": "Venç avui",
+            "paid": "Pagat",
+            "due_without_date": "Pendent",
+            "due_on_fulfillment": "Pagadero en preparar la comanda",
+            "pay_to_confirm": "Pagar per confirmar",
+            "payment_not_due": "Encara no vençut"
+          }
+        },
+        "sort_currently_sorted_by_accessibility_label": "Actualment, estan ordenades per: {{option}}"
+      },
+      "order_status": {
+        "canceled_description": "La teva comanda es va cancel·lar el {{date}} .",
+        "canceled_label": "Cancel·lat",
+        "canceled_title": "La teva comanda es va cancel·lar",
+        "come_back": "Torna a aquesta pàgina per rebre actualitzacions sobre l'estat de l'enviament.",
+        "company_tracking_number": "Número de seguiment de {{company}} :",
+        "confirmed_label": "Confirmat",
+        "confirmed_title": "La teva comanda està confirmada",
+        "delivered_description": "Aquest enviament es va lliurar.",
+        "delivered_label": "Lliurat",
+        "delivered_title": "El teu enviament es va lliurar",
+        "estimated_delivery": "Lliurament estimat: {{date}}",
+        "in_review_description": "Contactarem amb tu si necessitem més informació o un cop es confirmi la comanda.",
+        "in_review_label": "En revisió",
+        "in_review_title": "La comanda s'està revisant",
+        "no_tracking_number": "No hi ha cap número de seguiment per a aquest enviament.",
+        "on_its_way_label": "En camí",
+        "on_its_way_title": "El teu enviament està en camí",
+        "out_for_delivery_label": "Enviat al destinatari",
+        "out_for_delivery_title": "El teu enviament està sent enviat al destinatari",
+        "resume_tracking": "Reprendre seguiment",
+        "submitted_label": "Enviat",
+        "track_shipment": "Fer seguiment d'enviament",
+        "request_return": "Sol·licitar devolució",
+        "attempted_delivery_label": "Intent de lliurament",
+        "attempted_delivery_description": "L'intent de lliurament no es va completar amb èxit.",
+        "confirmed_description": "Es va rebre la teva comanda.",
+        "on_its_way_description": "Aquesta tramesa està en camí.",
+        "out_for_delivery_description": "L´entrega d´aquest enviament està en curs.",
+        "preparing_for_shipping_label": "En preparació per a l'enviament",
+        "preparing_for_shipping_description": "Aquests articles s'estan preparant per enviar-lo.",
+        "ready_for_pickup_label": "A punt per a la retirada",
+        "ready_for_pickup_description": "Aquests articles estan preparats per a la seva retirada.",
+        "picked_up_label": "Retirat",
+        "picked_up_description": "Aquests articles es van retirar.",
+        "submitted_description": "Revisa els detalls de la comanda i el pagament."
+      },
+      "status_mark_as_delivered": "Marcar com a lliurat"
     },
     "order_details": {
       "addresses_section_title": "Facturació i enviament",
