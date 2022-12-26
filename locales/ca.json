@@ -626,7 +626,41 @@
         "order_status_confirmed_with_installments_payment_confirm": "Rebràs aviat un correu electrònic de confirmació amb el teu número de comanda i els detalls del teu programa de quotes.",
         "first_payment_complete": "Primer pagament completat",
         "in_store_purchase": "Compra a la botiga física",
-        "optimus_button_label": "Comprar amb Optimus: fer seguiment del paquet"
+        "optimus_button_label": "Comprar amb Optimus: fer seguiment del paquet",
+        "title": "Gràcies per la teva compra!",
+        "confirmation_email_sent_text": "S'ha enviat un correu electrònic de confirmació a %{email}",
+        "return_to_store_link_label": "Seguir comprant",
+        "payment_information_title": "Informació de pagament",
+        "shipping_information_title": "Informació d'enviament",
+        "page_title": "Gràcies %{display_name}!",
+        "page_title_no_name": "Gràcies!",
+        "cancelled_page_title": "Comanda cancel·lada",
+        "customer_information_title": "Informació del client",
+        "contact_information_title": "Informació de contacte",
+        "billing_address_title": "Adreça de facturació",
+        "shipping_address_title": "Direcció d'enviament",
+        "shipping_address_map_title": "El mapa de Google mostra la ubicació exacta de l'adreça d'enviament: %{address}",
+        "payment_method_title": "Mètodes de pagament",
+        "shipping_method_title": "Mètode d'enviament",
+        "tracking_number": "Número de seguiment:",
+        "company_tracking_number": "Número de seguiment de %{company}:",
+        "estimated_arrival": "Data de lliurament estimada:",
+        "re-order": "Demanar de nou els mateixos articles",
+        "confirmed": "Confirmat",
+        "thank_you_title": "La teva comanda està confirmada",
+        "thank_you_confirmed_order_with_email": "Rebràs aviat un correu electrònic de confirmació amb el teu número de comanda.",
+        "thank_you_confirmed_order_with_phone": "Rebreu en breu un missatge de text de confirmació amb el vostre número de comanda.",
+        "thank_you_confirmed_order_with_email_and_phone": "Rebràs en breu un correu electrònic de confirmació i un missatge de text amb el teu número de comanda.",
+        "thank_you_confirmed_order_with_missing": "Comunica't amb nosaltres per correu electrònic o per telèfon per rebre la confirmació de la teva comanda.",
+        "order_status_confirmed_order_with_email": "Rebràs un correu electrònic quan la teva comanda estigui a punt.",
+        "order_status_confirmed_order_with_phone": "Rebràs un missatge de text quan la teva comanda estigui a punt.",
+        "order_status_confirmed_order_with_email_and_phone": "Rebràs un correu electrònic i un missatge de text quan la teva comanda estigui a punt.",
+        "order_status_updates_with_email": "Rebràs actualitzacions de l'enviament i entrega de la comanda per correu electrònic.",
+        "order_status_updates_with_phone": "Rebràs actualitzacions de l'enviament i entrega de la comanda per missatges de text.",
+        "order_status_updates_with_email_and_phone": "Rebràs actualitzacions de l'enviament i entrega de la comanda per correu electrònic i missatges de text.",
+        "order_status_updates_with_missing": "Trieu com vols rebre actualitzacions de l'enviament de la vostra comanda.",
+        "confirmed_title": "La teva comanda està confirmada",
+        "confirmed_description": "Hem acceptat la teva comanda i estem preparant-ho. Torna a aquesta pàgina per rebre actualitzacions sobre l'estat del teu enviament."
       },
       "delivery_options": {
         "pick_up_in_twenty_four_hours": "Normalment està llest en 24 hores",
@@ -856,6 +890,99 @@
         "update_tip": "Actualitzar propina",
         "message": "Moltes gràcies",
         "no_tip_label": "Cap"
+      },
+      "payment_errors": {
+        "order_total_changed": "El pagament no es va poder processar perquè el total de la teva comanda ha canviat. Revisa el total de la teva comanda i torna a intentar-ho.",
+        "payment_processing": "No es pot processar el pagament per raons tècniques. Torneu-ho a provar o utilitzeu una forma de pagament diferent.",
+        "payment_processing_no_retry": "No es pot processar el pagament per raons tècniques. Prova-ho amb una altra forma de pagament.",
+        "paypal_zero_amount": "No podeu utilitzar PayPal per a comandes de %{amount}. Confirma la teva comanda i continua amb el procés de pagament sense PayPal.",
+        "paypal_invalid_token": "PayPal no estava disponible. Torneu-ho a provar o feu servir una opció de pagament diferent.",
+        "pay_later_failed": "S'ha produït un error en processar el pagament amb Pagament en 30 dies. Seleccioneu un altre mètode de pagament i torneu-ho a provar.",
+        "three_d_secure_failed": "No s'ha pogut verificar el pagament. Torneu-ho a provar o utilitzeu una forma de pagament diferent.",
+        "three_d_secure_throttled": "Massa intents; si us plau espera abans de tornar a intentar-ho",
+        "subscription_agreement_blank": "Per comprar una subscripció, cal que deseu les vostres dades de pagament. Per continuar, confirma que estàs d'acord o elimina els articles de subscripció de la teva comanda.",
+        "three_d_secure_failed_duplicate": "L'autenticació 3D Secure de la targeta de crèdit va fallar perquè ja hi ha una altra autenticació en curs.",
+        "insufficient_funds": "El teu pagament es va rebutjar a causa de saldo insuficient. Intenta-ho de nou o utilitza una altra forma de pagament.",
+        "fraud_payment_errors": {
+          "transaction_declined": "Aquesta transacció s'ha rebutjat",
+          "address_mismatch": "L'adreça i el codi postal no coincideixen.",
+          "cannot_process": "Aquesta transacció no es pot processar.",
+          "no_match": "No hi ha coincidència",
+          "card_declined": "La teva targeta s'ha rebutjat"
+        },
+        "checkout_amount_changed": "No s'ha pogut processar el pagament perquè la suma deguda ha canviat. Revisa la teva comanda i torna a intentar-ho.",
+        "deferred_payment_not_allowed": "Els pagaments diferits no estan permesos. Revisa la teva comanda i torna a intentar-ho.",
+        "deferred_payment_required": "Aquesta comanda requereix un pagament diferit. Revisa la teva comanda i torna a intentar-ho.",
+        "deferred_amount_changed": "No s'ha pogut processar el pagament perquè la suma del pagament diferit ha canviat. Revisa la teva comanda i torna a intentar-ho.",
+        "deferred_date_changed": "El pagament no s'ha pogut processar perquè la data del pagament diferit ha canviat. Revisa la teva comanda i torna a intentar-ho."
+      },
+      "shipping_errors": {
+        "shipping_method": "S'ha actualitzat el carretó i la tarifa d'enviament anterior ja no és vàlida. Seleccioneu una nova tarifa.",
+        "shipping_method_not_available": "La teva cistella s'ha actualitzat i els articles que vas afegir no es poden enviar a la teva adreça. Elimina els articles per completar la comanda.",
+        "shipping_method_not_available_generic": {
+          "one": "Aquesta comanda no es pot enviar a l'adreça que heu indicat. Reviseu l'adreça per garantir que tots els camps s'han omplert correctament i torneu-ho a provar.",
+          "other": "Alguns articles a la cistella no es poden enviar a l'adreça que has indicat. Reviseu l'adreça per garantir que tots els camps s'han omplert correctament i torneu-ho a provar.",
+          "many": "Alguns articles a la cistella no es poden enviar a l'adreça que has indicat. Reviseu l'adreça per garantir que tots els camps s'han omplert correctament i torneu-ho a provar."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "L'article que heu afegit no es pot enviar a la vostra ubicació. Elimina'l per completar el pagament, o posa't en contacte amb la botiga.",
+          "other": "Un o més articles que vas afegir no es poden enviar a la teva ubicació. Elimina'ls per completar el pagament, o posa't en contacte amb la botiga.",
+          "many": "Un o més articles que vas afegir no es poden enviar a la teva ubicació. Elimina'ls per completar el pagament, o posa't en contacte amb la botiga."
+        },
+        "payment_method_not_supported": "No podeu utilitzar aquesta forma de pagament a %{country}. Utilitza una altra forma de pagament per fer l'enviament a aquest país."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Pagament exprés"
+      },
+      "alternative_payment_method": {
+        "button_html": "Comprar amb: %{method}",
+        "button_label": "Comprar amb: %{method}"
+      },
+      "paypal": {
+        "button_html": "Pagar amb %{logo}"
+      },
+      "apple_pay": {
+        "button_html": "Comprar amb %{logo}"
+      },
+      "processing": {
+        "redirecting_page_title": "Redirigint…",
+        "redirecting_title": "Redirigint…",
+        "redirecting_notice": "Espera mentre et redirigim.",
+        "complete_your_purchase_title": "Completar la teva compra.",
+        "continue_to_payment_gateway_notice": "Continua amb la pantalla de pagament per afegir la teva informació de pagament.",
+        "continue_to_payment_gateway_button_label": "Continuar amb el pagament",
+        "complete_your_purchase_title_error": "Corregir la teva informació de pagament",
+        "continue_to_payment_gateway_notice_error": "No s'ha pogut verificar la informació de pagament.",
+        "continue_to_payment_gateway_button_label_error": "Actualitza la informació de pagament",
+        "page_title": "Tramitació de la comanda",
+        "title": "Tramitació de la comanda",
+        "your_order_has_been_received_title": "Gràcies per la teva comanda",
+        "you_will_receive_confirmation": "Estem rebent moltes comandes en aquest moment. Hauries de rebre la confirmació per correu electrònic o missatge de text ben aviat. Si no la rep abans d'una hora, contacta'ns.",
+        "wait": {
+          "short": "La teva comanda està sent processada.",
+          "medium": {
+            "one": "La teva comanda s'està processant. El temps estimat estimat és de %{count} minut.",
+            "other": "La teva comanda està sent processada. El temps estimat estimat és de %{count} minuts.",
+            "many": "La teva comanda està sent processada. El temps estimat estimat és de %{count} minuts."
+          },
+          "long": "Rebràs un correu electrònic quan es processi la teva comanda. Actualment hi ha un alt volum de comandes.",
+          "no_auto_refresh_html": "Si no ets redirigit automàticament, %{link}.",
+          "refresh_this_page": "torna a carregar aquesta pàgina"
+        },
+        "you_will_not_be_charged": "Encara no se't cobrarà"
+      },
+      "failed_payment": {
+        "page_title": "No s'ha pogut processar el pagament",
+        "title": "No s'ha pogut processar el pagament",
+        "payment_not_processed_title": "El teu pagament no es va poder processar",
+        "payment_not_processed_text": "No t'has cobrat. Torna a la teva cistella per finalitzar la transacció.",
+        "return_to_cart_button_label": "Tornar a la cistella"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Targeta de crèdit",
+        "bank_deposit_label": "Dipòsit Bancari",
+        "cash_on_delivery_label": "Pagament contra lliurament",
+        "money_order_label": "Gir Postal"
       }
     },
     "pagination": {
