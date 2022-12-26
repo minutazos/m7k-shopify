@@ -284,5 +284,16 @@
       "pick_up_available_at_html": "<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">Retir disponible en&nbsp;<\/span><strong data-mce-fragment=\"1\">{{ location_name }}<\/strong>",
       "pick_up_unavailable_at_html": "Retir no disponible actualment a&nbsp;<meta charset=\"utf-8\"><span data-mce-fragment=\"1\">&nbsp;<\/span><strong data-mce-fragment=\"1\">{{ location_name }}<\/strong>"
     }
+  },
+  "contact": {
+    "form": {
+      "name": "Nom",
+      "email": "Adressa de correu electrònic",
+      "phone": "Número de telèfon",
+      "message": "Missatge",
+      "submit": "Enviar",
+      "post_success": "Gracies per contactar-nos. El respondrem el més aviat possible",
+      "error_heading": "Si us plau, ajusti el següent:"
+    }
   }
 }
