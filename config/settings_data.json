@@ -618,7 +618,6 @@
       },
       "162705625279f3ce6a": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "d75d0052-b18e-4c1c-8c0e-88d079d56edd": {
             "type": "image",
@@ -634,6 +633,7 @@
           },
           "005f4001-262a-47e0-8336-5fcbc7147cee": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/banner_primera_diapositiva_2.png",
               "alignment": "left top",
@@ -669,7 +669,6 @@
           },
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/banner_dj_nano.png",
               "alignment": "center top",
@@ -681,6 +680,7 @@
           },
           "d8ed1c1d-6a7d-4008-807b-6e41e8a459e8": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/P1100858.jpg",
               "alignment": "center bottom",
