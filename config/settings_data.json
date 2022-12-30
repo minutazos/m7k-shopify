@@ -2,11 +2,11 @@
   "current": {
     "color_button": "#0d0b00",
     "color_button_text": "#c11cc6",
-    "color_small_button_text_border": "#3a3a3a",
+    "color_small_button_text_border": "#000000",
     "color_text_field_border": "#ebebeb",
     "color_text_field": "#ffffff",
     "color_image_overlay_text": "#000000",
-    "color_image_overlay": "#cccbcb",
+    "color_image_overlay": "#ffffff",
     "image_overlay_opacity": 37,
     "color_borders": "#c11cc6",
     "type_header_font": "montserrat_n7",
