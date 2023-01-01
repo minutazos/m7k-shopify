@@ -353,7 +353,7 @@
         "type": "newsletter",
         "settings": {
           "section_title": "Suscríbete a nuestra Newsletter",
-          "subheading": "<p>¡Entérate antes que nadie de nuestras nuevas ofertas y lanzamientos!<\/p><p>Hazte miembro de la f7milia y <strong>consigue un<\/strong> <strong>10% de descuento<\/strong> en tu primera compra. <em>Sin compra mínima<\/em>.<\/p>",
+          "subheading": "<p>¡Entérate antes que nadie de nuestras nuevas ofertas y lanzamientos!<\/p><p>Hazte miembro de la familia y <strong>consigue un<\/strong> <strong>10% de descuento<\/strong> en tu primera compra. <em>Sin compra mínima<\/em>. <\/p>",
           "show_background": true
         }
       },
