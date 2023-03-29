@@ -14,7 +14,6 @@
     "color_borders": "#c11cc6",
     "color_body_bg": "#000000",
     "type_header_font": "montserrat_n7",
-    "type_header_base_size": 25,
     "type_base_font": "lato_n4",
     "share_pinterest": false,
     "social_twitter_link": "https:\/\/twitter.com\/m7kustom?s=11",
@@ -675,9 +674,9 @@
           "c00ffd31-adcb-4d0f-a2b2-8c67693ff7b6": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/AE2D0B51-7417-440A-8581-951EBEE192BE.jpg",
+              "image": "shopify:\/\/shop_images\/IMG_6417_3.jpg",
               "alignment": "center top",
-              "slide_title": "Todas nuestras obras están hechas a mano.",
+              "slide_title": "Todas nuestras obras están hechas a mano",
               "subheading": "",
               "button_label": "NUESTRO TRABAJO",
               "button_link": "shopify:\/\/collections\/all"
