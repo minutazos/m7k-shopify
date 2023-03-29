@@ -1,7 +1,7 @@
 {
   "current": {
     "color_button": "#0d0b00",
-    "color_button_text": "#c11cc6",
+    "color_button_text": "#bf70c1",
     "color_small_button_text_border": "#000000",
     "color_text_field_border": "#ebebeb",
     "color_text_field": "#ffffff",
@@ -31,7 +31,7 @@
           "home_page_only": true,
           "message_text": "Vina a inaugurar el local!",
           "message_link": "",
-          "color_bg": "#b31fb7",
+          "color_bg": "#bf70c1",
           "color_text": "#ffffff"
         }
       },
