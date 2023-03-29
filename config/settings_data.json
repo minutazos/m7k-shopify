@@ -527,10 +527,10 @@
       },
       "1651190497e67b5fbc": {
         "type": "logo-bar",
-        "disabled": true,
         "blocks": {
           "1651190497e67b5fbc-0": {
             "type": "logo_image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Logo-DjNano-1024x463.png",
               "link": "https:\/\/www.instagram.com\/reel\/CcdpbqEqvzO\/"
@@ -538,6 +538,7 @@
           },
           "1651190497e67b5fbc-1": {
             "type": "logo_image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Disseny_sense_titol_1.png",
               "link": "https:\/\/www.instagram.com\/p\/CSaOpn6qD4t\/"
@@ -545,6 +546,7 @@
           },
           "1651190497e67b5fbc-2": {
             "type": "logo_image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/logo-juicyfields.png",
               "link": "https:\/\/www.instagram.com\/p\/CcgQr0fqYY3\/"
@@ -552,9 +554,32 @@
           },
           "1651190497e67b5fbc-3": {
             "type": "logo_image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/portada_blog_elilluminari.png",
               "link": "https:\/\/www.instagram.com\/p\/CH5w-5kpc15\/"
+            }
+          },
+          "108a6467-74bc-4283-856f-a8dd8d473ea4": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/logo-tarrago-web.png",
+              "link": ""
+            }
+          },
+          "8e4b067e-e0ae-4207-b7a1-039e3658f767": {
+            "type": "logo_image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/DROP_logo_01.png",
+              "link": ""
+            }
+          },
+          "d029777e-b845-4ff7-b552-546a892edd9a": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Submon_No_background_300x-8.png",
+              "link": ""
             }
           }
         },
@@ -562,10 +587,13 @@
           "1651190497e67b5fbc-0",
           "1651190497e67b5fbc-1",
           "1651190497e67b5fbc-2",
-          "1651190497e67b5fbc-3"
+          "1651190497e67b5fbc-3",
+          "108a6467-74bc-4283-856f-a8dd8d473ea4",
+          "8e4b067e-e0ae-4207-b7a1-039e3658f767",
+          "d029777e-b845-4ff7-b552-546a892edd9a"
         ],
         "settings": {
-          "title": "TRABAJOS DESTACADOS"
+          "title": "partners y colaboraciones"
         }
       },
       "article-template": {
