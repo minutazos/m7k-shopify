@@ -1,14 +1,18 @@
 {
   "current": {
-    "color_button": "#0d0b00",
+    "color_text": "#dfdcdc",
+    "color_body_text": "#dad6d6",
+    "color_button": "#bf70c1",
     "color_button_text": "#bf70c1",
     "color_small_button_text_border": "#000000",
+    "color_text_field_text": "#e4e4e4",
     "color_text_field_border": "#ebebeb",
     "color_text_field": "#ffffff",
     "color_image_overlay_text": "#000000",
     "color_image_overlay": "#ffffff",
     "image_overlay_opacity": 37,
     "color_borders": "#c11cc6",
+    "color_body_bg": "#000000",
     "type_header_font": "montserrat_n7",
     "type_base_font": "lato_n4",
     "share_pinterest": false,
@@ -299,7 +303,7 @@
       "1606215216577814cf": {
         "type": "feature-row",
         "settings": {
-          "image": "shopify:\/\/shop_images\/E936FC4A-ED8A-4913-8A6E-15ADF68415F4.jpg",
+          "image": "shopify:\/\/shop_images\/IMG_6347_3.jpg",
           "layout": "right",
           "title": "¿Te imaginas unas zapatillas que solo tú puedas tener?",
           "text": "<p>Deja volar tu imaginación y cuéntanos esa idea que te gustaría plasmar en una de nuestras zapatillas y nosostros nos ocuparemos de trasladar esa idea al diseño.<\/p><p>Contáctanos y cuéntanos que historia te gustaría contar con tus  <em>Sneakers<\/em> personalizadas.<\/p><p><\/p>",
@@ -460,12 +464,12 @@
         "type": "map",
         "settings": {
           "heading": "EME creations - Sneaker Custom",
-          "address": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>Lun - Vie: 10:00-14:00 - 16:00-20:00 <br\/>Sábados: de 17:00 - 20:30<br\/>Domingos: cerrado<\/p>",
+          "address": "<p>C\/ Torrent de les Flors 75, bajo Barcelona, España<\/p><p>Ma - Vie: 11:00-14:00 - 16:00-20:00 <br\/>Sábados: de 11:00 - 14:00<br\/>Domingos y Lunes: Cerrado<\/p>",
           "map_address": "Carrer Torrent de les Flors 75, bajo",
           "button_text": "¿cómo venir?",
           "show_pin": true,
           "api_key": "",
-          "background_image": "shopify:\/\/shop_images\/prueba_mapa_2.png",
+          "background_image": "shopify:\/\/shop_images\/DB76BB67-4F0B-4C73-B39E-182428E3BEC5.jpg",
           "background_image_position": "center center"
         }
       },
