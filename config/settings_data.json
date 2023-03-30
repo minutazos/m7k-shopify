@@ -581,6 +581,12 @@
               "image": "shopify:\/\/shop_images\/Submon_No_background_300x-8.png",
               "link": ""
             }
+          },
+          "2533b3c6-c07d-40e9-a325-fef28999cc95": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
           }
         },
         "block_order": [
@@ -590,7 +596,8 @@
           "1651190497e67b5fbc-3",
           "108a6467-74bc-4283-856f-a8dd8d473ea4",
           "8e4b067e-e0ae-4207-b7a1-039e3658f767",
-          "d029777e-b845-4ff7-b552-546a892edd9a"
+          "d029777e-b845-4ff7-b552-546a892edd9a",
+          "2533b3c6-c07d-40e9-a325-fef28999cc95"
         ],
         "settings": {
           "title": "partners y colaboraciones"
