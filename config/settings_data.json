@@ -584,8 +584,15 @@
           },
           "2533b3c6-c07d-40e9-a325-fef28999cc95": {
             "type": "logo_image",
-            "disabled": true,
             "settings": {
+              "image": "shopify:\/\/shop_images\/arrels_blanc_sense_fons_300x-8.png",
+              "link": ""
+            }
+          },
+          "b2dfb19a-cfe7-4531-8709-3e33bbece57c": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/DROP_WHITE_NO_BACKGROUND_300x-8.png",
               "link": ""
             }
           }
@@ -598,7 +605,8 @@
           "108a6467-74bc-4283-856f-a8dd8d473ea4",
           "8e4b067e-e0ae-4207-b7a1-039e3658f767",
           "d029777e-b845-4ff7-b552-546a892edd9a",
-          "2533b3c6-c07d-40e9-a325-fef28999cc95"
+          "2533b3c6-c07d-40e9-a325-fef28999cc95",
+          "b2dfb19a-cfe7-4531-8709-3e33bbece57c"
         ],
         "settings": {
           "title": "partners y colaboraciones"
