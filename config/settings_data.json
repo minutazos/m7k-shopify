@@ -98,12 +98,12 @@
       "collection": {
         "type": "collection",
         "settings": {
-          "title": "Sneakers - by EME creations",
-          "collection": "sneakers-by-m7k",
-          "grid": 3,
+          "title": "Talleres y cursos - by EME creations",
+          "collection": "talleres-y-cursos-by-eme-creations",
+          "grid": 2,
           "rows": 1,
           "show_vendor": false,
-          "show_view_all": false
+          "show_view_all": true
         }
       },
       "quotes": {
