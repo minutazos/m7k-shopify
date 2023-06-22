@@ -1551,19 +1551,9 @@
     },
     "filters": {
       "availability": {
-        "label": "Disponibilitat",
         "value": {
           "out_of_stock": "Esgotat"
         }
-      },
-      "price": {
-        "label": "Preu"
-      },
-      "product_type": {
-        "label": "Tipus de producte"
-      },
-      "tags": {
-        "label": "Més filtres"
       }
     },
     "search": {
